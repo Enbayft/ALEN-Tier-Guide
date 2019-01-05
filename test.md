@@ -80,8 +80,10 @@ That said, the fact one of her skills is completely useless whenever planes aren
 > Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.
 On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
+![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - [Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)
+> Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
 
-
+> Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 >>> Tier 1: 
 - USS Cassin / Downes Kai
