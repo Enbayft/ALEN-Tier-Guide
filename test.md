@@ -216,7 +216,8 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 
 > Desc: The Nick is a true generalist, competent in everything and excelling in nothing. 
 Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.
-Make sure to bring a Fletcher along to capitalise on her strenghts.
+
+> Make sure to bring a Fletcher along to capitalise on her strenghts.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- [IJN Shigure](https://azurlane.koumakan.jp/Shigure)
 > Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s
@@ -231,14 +232,16 @@ Make sure to bring a Fletcher along to capitalise on her strenghts.
 >> 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
 
 > Desc: An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.
-Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
-- KMS Z1 (Tier 1.5 if running full Z-series setup)
-- Skill: Increases Firepower and Evasion of Z-series ships by 40%
-- Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
+> Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
+
+![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - [KMS Z1](https://azurlane.koumakan.jp/Z1) **Tier 1.5 if running full Z-series setup**
+> Skill: Increases Firepower and Evasion of Z-series ships by 40%
+
+> Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
 
  
->>> Pro Team Players:
+#### Pro Team Players:
 = HMS Crescent Kai, Comet Kai, Cygnet Kai (T2)
 - Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds; deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
 - Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect; deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
