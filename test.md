@@ -47,7 +47,6 @@ Good reading, and godspeed cap'n!
 
 ---
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
----
  
 ### Tier 0:
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
@@ -57,7 +56,7 @@ Good reading, and godspeed cap'n!
 
 > While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.
 
-- IJN Ayanami Kai
+![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - [IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)
 - Skill: 5% chance on firing main gun to boost Torpedo by 60% for 8s; 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
 - Desc: "Nuclear Launch Detected".
 Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.
