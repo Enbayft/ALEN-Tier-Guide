@@ -49,6 +49,7 @@ Good reading, and godspeed cap'n!
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
  
 ### Tier 0:
+---
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
 - Desc: "Vorpal Bunny".
 
@@ -72,7 +73,8 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
 >Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
 That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
 
-### Tier 0.5: 
+### Tier 0.5:
+---
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - [IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)
 - Desc: "Nuclear Launch Detected".
 > Skill: 5% chance on firing main gun to boost Torpedo by 60% for 8s; 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
@@ -86,6 +88,7 @@ On the flip side, Torpedoes are all she's got and once she's blown her load, she
 > Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 ### Tier 1: 
+---
 ![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- [USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit) [USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)
 - Desc: "The bubblewrap fights back!"
 > Skill: When HP falls under 20%, heals 25% of max HP once per battle; 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
@@ -99,6 +102,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
 > Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
  
 ### Tier 1.5:
+---
 ![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - [HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)
 > Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s; 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
@@ -122,10 +126,11 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 
 > Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
 
-- KMS Z35
-- Skill: 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s; upon expiration, decrease reload by 100% for 3s.
-- Desc: "Vorpal Häschen".
-Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
+![DD](https://azurlane.koumakan.jp/w/images/4/4b/Z35Chibi.png "Z35") - [KMS Z35](https://azurlane.koumakan.jp/Z35)
+- Desc: "Vorpal Häschen"
+> Skill: 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s; upon expiration, decrease reload by 100% for 3s.
+
+> Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 
 >>> Tier 2:
