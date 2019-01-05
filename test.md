@@ -241,25 +241,27 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
 > Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
 
  
-#### Pro Team Players:
-##### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") ([HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) T2
+### Pro Team Players:
+#### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") [HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) **(T2)**
+- Description: "Da da da, smoke screen everydaaaay". 
+
 > Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
 
 > Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
 > Skill (Cygnet): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
-
-> Description: "Da da da, smoke screen everydaaaay". 
 
 > This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.
 
 > Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
  
->>> Honorable Mention:
-= USS Cassin / Downes
-- Skill: When HP falls under 20%, heals 25% of max HP once per battle;
+### Honorable Mention:
+#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes")[USS Cassin](https://azurlane.koumakan.jp/Cassin) [Downes]https://azurlane.koumakan.jp/Downes
 - Desc: "Cheap and inexpensive bubblewrap".
-While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
+
+> Skill: When HP falls under 20%, heals 25% of max HP once per battle
+
+>While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
 = HMS Amazon
