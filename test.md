@@ -541,9 +541,15 @@ _N/A_
 
 > Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
-- IJN Furutaka / Kako Kai
-- Skill: 60% activation every 20s, increases own FP by 40% for 10s; every torpedo launch has a 30.0% chance to launch another spread.
-- Desc: Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
+![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - [IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka) [IJN Kako Kai](https://azurlane.koumakan.jp/Kako)
+
+> Skill: 
+
+>> 60% activation every 20s, increases own FP by 40% for 10s
+
+>> Every torpedo launch has a 30.0% chance to launch another spread.
+
+> Desc: Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
 - KMS Deutschland
 - Skill: +35% damage against DD and CL.
