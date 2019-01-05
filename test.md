@@ -476,35 +476,70 @@ _N/A_
 > Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP +Reload buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
  
->>> Tier 1:
-- USS Wichita
-- Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%; 25% chance when firing main guns to fire another salvo
-- Desc: Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
+### Tier 0.5:
+---
+
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - [USS Wichita](https://azurlane.koumakan.jp/Wichita)
+
+> Skill: 
+
+>> Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
+
+>> 25% chance when firing main guns to fire another salvo
+
+> Desc: Can you say 24 shots in a row? She certainly can. Wichita is THE heaviest frontline DPS in the entire game, bar none. Her HP is rather lacklustre, but it's an easily solved issue and dead enemies can't hurt you anyway.
  
-- USS Chicago
-- Skill: Main gun shots have a 30% chance to inflict double damage.
-- Desc: What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc. Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
+ ### Tier 1:
+---
+
+![CA](https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png "USS Chicago") - [USS Chicago](https://azurlane.koumakan.jp/Chicago)
+
+> Skill: Main gun shots have a 30% chance to inflict double damage.
+
+> Desc: What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc. Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
 
 
  
->>> Tier 1.5:
-- USS Houston
-- Skill: Main gun shots have a 20% chance to increase own Evasion by 100% for 15s.
+### Tier 1.5:
+---
+![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - [USS Houston](https://azurlane.koumakan.jp/Houston)
 - Desc: "Problem? What problem?"
-While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect. 
-What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
 
-- USS Indianapolis
-- Skill: Every 30s, spawns 2 shields that blocks 8 shots; 8% chance to reduce any damage taken by 50% on taking damage
-- Desc: The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat. Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
+> Skill: Main gun shots have a 20% chance to increase own Evasion by 100% for 15s.
 
-- USS Portland
-- Skill: When together with Indianapolis, Increase Firepower, AA, and Reload by 15%; 15% chance every 20s to reduce damage taken by 15% for 8s
-- Desc: A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
+> While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect. 
 
-- HMS Suffolk Kai (T1 when deployed with Queen Elizabeth)
-- Skill: 25% chance when firing main guns to fire another salvo; 60% chance every 20s to increase Firepower by 40% for 10s
-- Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
+> What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
+
+![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - [USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)
+
+> Skill: 
+
+>> Every 30s, spawns 2 shields that blocks 8 shots
+
+>> 8% chance to reduce any damage taken by 50% on taking damage
+
+> Desc: The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat. Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
+
+![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - [USS Portland](https://azurlane.koumakan.jp/Portland)
+
+> Skill:
+
+>> When together with Indianapolis, Increase Firepower, AA, and Reload by 15%
+
+>> 15% chance every 20s to reduce damage taken by 15% for 8s
+
+>  Desc: A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
+
+![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - [HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk) **(T1 when deployed with Queen Elizabeth)**
+
+> Skill: 
+
+>> 25% chance when firing main guns to fire another salvo
+
+>> 60% chance every 20s to increase Firepower by 40% for 10s
+
+> Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
 - IJN Furutaka / Kako Kai
 - Skill: 60% activation every 20s, increases own FP by 40% for 10s; every torpedo launch has a 30.0% chance to launch another spread.
