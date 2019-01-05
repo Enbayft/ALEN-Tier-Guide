@@ -242,13 +242,17 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
 
  
 #### Pro Team Players:
-= HMS Crescent Kai, Comet Kai, Cygnet Kai (T2)
-- Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds; deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
-- Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect; deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
-- Skill (Cygnet): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds; deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
-- Description: "Da da da, smoke screen everydaaaay". 
-This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.
-Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
+##### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") ([HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) T2
+> Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
+
+> Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
+> Skill (Cygnet): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance. 
+
+> Description: "Da da da, smoke screen everydaaaay". 
+
+> This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.
+
+> Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
  
 >>> Honorable Mention:
