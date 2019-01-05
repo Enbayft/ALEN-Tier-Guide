@@ -643,6 +643,17 @@ Damage control is about lowering the incoming damage as much as it is about prev
 
 > Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
 
+![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - [KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz) **(T2 with BB/BC)**
+- Desc: "Torpitz? Neetpitz? Derpitz?"
+
+>  Skill: 30% damage increase when Tirpitz is the only BB/BC in the fleet || Every 15s, launches 4 Magnetic Torpedoes
+
+> One of the hardest hitting BBs in the game, provided you cater to her social anxiety.
+
+> Pair her with CV/CVL/BM/BBVs only, because her damage increase is the reason for her power; the homing torpedoes are the sweet, sweet icing on the cake and let her get some free damage on enemy mobs or, more often, intercept suicide boats before they even come close.
+
+> All that said, however, remember that the +30% dmg is the SOLE REASON she is as good as she is; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
+
 ### Tier 0.5:
 ---
 
@@ -656,17 +667,27 @@ Damage control is about lowering the incoming damage as much as it is about prev
 > Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
 >>> Tier 1:
-- USS Arizona
-- Skill: 50% chance on firing main gun to heal escort fleet for 10% HP.
+![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - [USS Arizona](https://azurlane.koumakan.jp/Arizona)
 - Desc: WAIT DON'T lEAVE JUST YET. 
-Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
-Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
 
-- USS North Carolina
-- Skill: -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet; increase FP by 30% of her total AA stat (buffs not included)
+> Skill: 50% chance on firing main gun to heal escort fleet for 10% HP.
+
+> Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
+
+> Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
+
+![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - [USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)
 - Desc: Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.
-North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).
-Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
+
+> Skill:
+
+>> -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
+
+>> Increase FP by 30% of her total AA stat (buffs not included)
+
+> North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).
+
+> Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
 - USS Washington
 - Skill: 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment); when South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
