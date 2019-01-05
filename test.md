@@ -755,7 +755,7 @@ Their Kai is unique in that it is a sidegrade rather than an upgrade: when turne
 
 > Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
-> KMS Gneisenau (T1 if deployed with Graf Zeppelin)
+![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - [KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau) **(T1 if deployed with Graf Zeppelin)**
 
 > Skill: Increases Firepower by 25% || Every 20s launches 3 unguided torpedoes
 
@@ -763,14 +763,17 @@ Their Kai is unique in that it is a sidegrade rather than an upgrade: when turne
 
 > A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
-- KMS Scharnhorst (T1 if deployed with Graf Zeppelin)
-- Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
-- Desc: Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.
-A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
+![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - [KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst) **(T1 if deployed with Graf Zeppelin)**
 
+> Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
 
+> Desc: Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.
+
+>A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
  
->>> Tier 2:
+### Tier 2:
+---
+
 - USS California
 - Skill: 30% chance to proc on main gun fire, x2 damage on the entire volley
 - Desc: By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost. Still hits damn hard, though, and harder still when she's on a good roll.
