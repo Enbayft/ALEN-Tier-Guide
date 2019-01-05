@@ -1,8 +1,6 @@
----
 # Your Waifu is SHIP's opinionated & extra-biased EN tier guide (based on Kopfjäger's work)
----
 
->>> VERY IMPORTANT OPENING NOTE <<<<
+## _VERY IMPORTANT OPENING NOTE_ 
 Azur Lane is a special little gem of a game. In a mobile market saturated by predatory, thinly disguised gambling simulators posing as RPGs, where the only valid choice is the rarest, most expensive, most lootboxable one, Azur Lane bucks the trend by having ALL of its units entirely viable for all content, given proper gear and care.
 
 That said, however... to quote a wise Azur Lane Community member, "just because it works, it doesn't mean it's good": while all units are indeed viable, there are clearly objectively superior ones, and this Tier Guide aims to identify who are they and for what reasons.
@@ -10,10 +8,10 @@ Indeed, you could even interpret the tiers as a relative measure of how much inv
 
 Whatever the case and however you choose to read this guide, I want to stress this - ALL units are viable, SOME are better than others, NONE of them will work if you don't know how to use them.
 Good reading, and godspeed cap'n!
->>> VERY IMPORTANT OPENING NOTE <<<
+## _VERY IMPORTANT OPENING NOTE_ 
 
 
-> Evaluation Criteria:
+### Evaluation Criteria:
 - Ships are tiered by their PvE PERFORMANCE first and foremost, but notes on notable PvP usage will be made if suitable.
 - Ships are tiered according to their ability to act as a STAND-ALONE UNIT; if a unit performs better in a specific composition or if certain conditions are met, it will be noted with a second tier mark.
 - Ships are compared to others in their OWN CLASS for tiering purposes; if two ships are have comparable stats and purpose, the least expensive one will be ranked higher.
