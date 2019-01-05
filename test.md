@@ -53,6 +53,7 @@ Good reading, and godspeed cap'n!
 - Desc: "Vorpal Bunny".
 
 > Skill: 
+
 >> 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s. 
 
 >>E very 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
