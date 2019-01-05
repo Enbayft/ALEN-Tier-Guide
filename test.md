@@ -709,6 +709,27 @@ Damage control is about lowering the incoming damage as much as it is about prev
 > An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.
 
 > As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
+
+![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - [IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))
+- Desc: A sidegrade to Washington.
+> Skill:
+
+>> 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
+
+>> 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
+
+> Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.
+
+> She also has a few torps to throw out every now and then, but they're fairly lacklustre.
+
+![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - [IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro) [IJN Fusou](https://azurlane.koumakan.jp/Fusou) (Kai)
+
+> Skill: Increases Firepower by 20% || (Launches more seaplanes on first airstrike)
+
+> Desc: The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.
+Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.
+
+> A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
  
 ### Tier 1.5:
 ---
@@ -722,24 +743,25 @@ Damage control is about lowering the incoming damage as much as it is about prev
 
 > Desc: While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
 
-- HMS Queen Elizabeth (T0 in any HMS fleet)
-- Skill: Increases Firepower, Torpedo, Air Power, AA, Reload, and Evasion of HMS ships by 15%
-- Desc: The core of most HMS fleets. If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
+![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- [HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth) **(T0 in any HMS fleet)**
 
-- IJN Yamashiro/Fusou (Kai)
-- Skill: Increases Firepower by 20%; (Launches more seaplanes on first airstrike)
-- Desc: The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.
-Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.
-A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
+> Skill: Increases Firepower, Torpedo, Air Power, AA, Reload, and Evasion of HMS ships by 15%
+
+> Desc: The core of most HMS fleets. If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
  
-- IJN Ise
-- Skill: Increase own FP by 20%.
-- Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
+![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - [IJN Ise](https://azurlane.koumakan.jp/Ise)
 
-- KMS Gneisenau (T1 if deployed with Graf Zeppelin)
-- Skill: Increases Firepower by 25%; Every 20s launches 3 unguided torpedoes
-- Desc: Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her competitors (excepting Hood), while still being able to defend herself through a set of CL guns.
-A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
+> Skill: Increase own FP by 20%.
+
+> Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
+
+> KMS Gneisenau (T1 if deployed with Graf Zeppelin)
+
+> Skill: Increases Firepower by 25% || Every 20s launches 3 unguided torpedoes
+
+> Desc: Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her competitors (excepting Hood), while still being able to defend herself through a set of CL guns.
+
+> A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
 - KMS Scharnhorst (T1 if deployed with Graf Zeppelin)
 - Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
