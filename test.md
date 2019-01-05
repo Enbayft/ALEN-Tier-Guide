@@ -49,11 +49,12 @@ Good reading, and godspeed cap'n!
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
 ---
  
->>> Tier 0:
-- USS Laffey Kai
-- Skill: 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s; every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
+### Tier 0:
+![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
 - Desc: "Vorpal Bunny".
-While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.
+
+> Skill: 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s; every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
+> While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.
 
 - IJN Ayanami Kai
 - Skill: 5% chance on firing main gun to boost Torpedo by 60% for 8s; 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
