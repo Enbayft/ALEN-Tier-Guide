@@ -85,46 +85,42 @@ On the flip side, Torpedoes are all she's got and once she's blown her load, she
 
 > Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
->>> Tier 1: 
-- USS Cassin / Downes Kai
-- Skill: When HP falls under 20%, heals 25% of max HP once per battle; 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
+### Tier 1: 
+![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- [USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit) [USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)
 - Desc: "The bubblewrap fights back!"
-Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.
+> Skill: When HP falls under 20%, heals 25% of max HP once per battle; 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
+
+> Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.
 As it is for Phoenix, they are best used in mobbing fleets.
 
-- Poi (IJN Yuudachi)
-- Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
-- Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
+![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - [IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)
+> Skill: 15% boost of torpedo stat to the frontline; 30% chance to launch a second salvo on torpedo launch
 
-- IJN Kagerou
-- Skill: 15% boost of torpedo stat to the frontline; 30% chance to launch a second salvo on torpedo launch
-- Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
-
-- KMS Z46
-- Skill: Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff; increases AP damage by 25%
-- Desc: "KMSan Diego". 
-Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
-That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
+> Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
  
- 
->>> Tier 1.5:
-- HMS Javelin Kai
-- Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s; 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
-- Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
+### Tier 1.5:
+![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - [HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)
+> Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s; 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
-- Bucky (IJN Fubuki)
-- Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
-- Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
+> Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
 
-- IJN Tanikaze Kai
-- Skill: When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%; When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
-- Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
+![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - [Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)
+> Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
+
+> Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
+
+![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - [IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)
+> Skill: When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%; When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
+
+> Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
 Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
 
-- KMS Z25
-- Skill: 60% activation every 20s, increases own FP by 40% for 10s; reduces the damage taken by the Flagship by 25%; can equip CL guns.
-- Special: Can equip CL guns.
-- Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
+![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - [KMS Z25](https://azurlane.koumakan.jp/Z25)
+> Skill: 60% activation every 20s, increases own FP by 40% for 10s; reduces the damage taken by the Flagship by 25%; can equip CL guns.
+
+> Special: Can equip CL guns.
+
+> Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
 
 - KMS Z35
 - Skill: 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s; upon expiration, decrease reload by 100% for 3s.
