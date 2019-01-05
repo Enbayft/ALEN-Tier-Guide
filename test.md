@@ -392,57 +392,88 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
 > Desc: Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice. Not too flashy, but sturdy enough and dependable.
 
 
->>> Tier 2:
-- USS Honolulu
-- Skill: 60% activation every 20s, increases own FP by 40% for 8s.
-- More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull. A solid pick regardless, especially if you expect aircraft
+### Tier 2:
+---
 
-- HMS Aurora
-- Skill: Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20%; decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
-- Desc: Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP. More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - [USS Honolulu](https://azurlane.koumakan.jp/Honolulu)
 
-- KMS Leipzig
-- Skill: Increases Firepower, Torpedo, and Reload of Cruisers (both CL and CA) in the fleet by 10%
-- Desc: Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
+> Skill: 60% activation every 20s, increases own FP by 40% for 8s.
 
-- SN Avrora
-- Skill: increase Damage inflicted by the frontline by 35%.
+> More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull. A solid pick regardless, especially if you expect aircraft
+
+![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - [HMS Aurora](https://azurlane.koumakan.jp/Aurora)
+
+> Skill: 
+
+>> Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
+
+>> Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
+
+>  Desc: Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP. More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+
+![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - [KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)
+
+> Skill: Increases Firepower, Torpedo, and Reload of Cruisers (both CL and CA) in the fleet by 10%
+
+> Desc: Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
+
+![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - [SN Avrora](https://azurlane.koumakan.jp/Avrora)
+
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
-The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.
-Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.
-As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).
-All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and an amazing force multiplier, having her around won't cut into your DPS to the point of crippling your fleet and will help your other ships MvP.
+
+> Skill: increase Damage inflicted by the frontline by 35%.
+
+> The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.
+
+> Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.
+
+> As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).
+
+> All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and an amazing force multiplier, having her around won't cut into your DPS to the point of crippling your fleet and will help your other ships MvP.
 
  
->>> Pro Team Players:
-N/A
+### Pro Team Players:
+_N/A_
  
  
->>> Honorable Mention:
-= USS Juneau
-- Skill: When sunk, heals all other ships in fleet for 25% HP.
+### Honorable Mention:
+#### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
 - Desc: "SHE DIES FOR YOUR SINS"
-Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.
-Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
+
+> Skill: When sunk, heals all other ships in fleet for 25% HP.
+
+> Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.
+
+> Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
  
-- USS San Diego
-= Skill: 15% activation chance when attacking with AA guns, increase fleet AA by 50% for 8s. 
+![CL](https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png "USS San Diego") - [USS San Diego](https://azurlane.koumakan.jp/San_Diego)
 - You'll see WAY more of her than you ever want
 - Desc: "The undisputed, unwanted AA queen".
-San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.
-The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damge and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.
-Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
+
+>  Skill: 15% activation chance when attacking with AA guns, increase fleet AA by 50% for 8s. 
+
+> San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.
+
+> The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damge and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.
+
+> Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
  
  
-=============================================
-CA (Heavy Cruiser, Yellow gun icon with a +)
-=============================================
+---
+## CA ![CA](https://azurlane.koumakan.jp/w/images/c/c3/CA_img.png "CA Icon")
+### Tier 0:
+---
  
->>> Tier 0:
-- USS Minneapolis
-- Skill: +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration; when Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
+![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - [USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)
 - Desc: "Monster Hunter".
-Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP +Reload buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
+
+> Skill:
+
+>> +15% Firepower and +30% Reload for 12s after killing an enemy vessel, if skill is already active it will refresh the duration 
+
+>> When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
+
+> Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP +Reload buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
  
 >>> Tier 1:
