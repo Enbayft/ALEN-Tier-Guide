@@ -47,13 +47,15 @@ Good reading, and godspeed cap'n!
 
 ---
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
- 
 ### Tier 0:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
 - Desc: "Vorpal Bunny".
 
-> Skill: 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s; every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
+> Skill: 
+>> 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s. 
+
+>>Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
 
 > While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.
 
@@ -133,8 +135,9 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 > Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 
->>> Tier 2:
-- USS Charles Ausburne (T1.5 if deployed with CA)
+### Tier 2:
+---
+![DD](https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png "Charles Ausburne") - [USS Charles Ausburne] **(T1.5 if deployed with CA)** 
 - Skill: 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s; 60% activation every 20s, increases own FP by 40% for 10s.
 - Desc: Another slippery little bastard, obsessed with justice and GOING FAST. Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
