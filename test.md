@@ -256,7 +256,7 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
  
  
 ### Honorable Mention:
-#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes")[USS Cassin](https://azurlane.koumakan.jp/Cassin) [Downes]https://azurlane.koumakan.jp/Downes
+#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) [Downes](https://azurlane.koumakan.jp/Downes)
 - Desc: "Cheap and inexpensive bubblewrap".
 
 > Skill: When HP falls under 20%, heals 25% of max HP once per battle
@@ -264,54 +264,87 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
-= HMS Amazon
-- Skill: Increases experience gained by DDs by +18%.
-- Desc: The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
+#### ![DD](https://azurlane.koumakan.jp/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
+> Skill: Increases experience gained by DDs by +18%.
 
-= IJN Shiranui
-- Skill: 30% chance to launch a second salvo on torpedo launch
-- Desc: One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
+> Desc: The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
+
+#### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
+> Skill: 30% chance to launch a second salvo on torpedo launch
+
+> Desc: One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
  
  
  
-===================================
-CL (Light Cruiser, Yellow gun icon)
-===================================
- 
->>> Tier 0:
-- IJN Jintsuu Kai
-- Skill: -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet; +20% Reload and Torpedo to all DD/CL in Fleet
+---
+## CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")
+### Tier 0:
+---
+
+![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "IJN Jintsuu Kai") - [IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)
 - Desc: "The fox says 'torp'."
-As fas as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.
-With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
+
+> Skill: 
+
+>> -20% Damage taken to self, +10% Torpedo Critical chance and +30% Torpedo Critical Damage to all DD/CL in Fleet
+
+>> +20% Reload and Torpedo to all DD/CL in Fleet
+
+>As fas as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.
+
+> With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
  
 
->>> Tier 1:
-- USS Cleveland
-- Skill: 25% chance every 20s to boost Damage fleetwide by 25%; 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
+### Tier 1:
+---
+
+![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - [USS Cleveland](https://azurlane.koumakan.jp/Cleveland)
 - Desc: "The Original Dadster". 
-Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland. Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.
-All in all, strong and dependable, just like her.
 
-- USS Phoenix
-- Skill: Once per battle, when HP falls under 20%, heals 25% HP and increases firepower by 30% for 15s.
-- Desc: Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
+> Skill: 
 
-- USS St. Louis
-- Skill: 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s; 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
-Craftable or Farmable, 10-3 stage all nodes
+>> 25% chance every 20s to boost Damage fleetwide by 25%
+
+>> 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
+
+> Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland. Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.
+
+> All in all, strong and dependable, just like her.
+
+![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix")- [USS Phoenix](https://azurlane.koumakan.jp/Phoenix)
+
+> Skill: Once per battle, when HP falls under 20%, heals 25% HP and increases firepower by 30% for 15s.
+
+> Desc: Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
+
+![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "USS St. Louis") - [USS St. Louis](https://azurlane.koumakan.jp/St._Louis)
 - Desc: "It's not luck, it's all skill".
-Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
-- HMS Edinburgh
-- Skill: Increase own AP damage by 25%.
+> Skill: 
+
+>> 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
+
+>> 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
+
+> Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
+
+![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - [HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)
 - Desc: "Worth her weight in gold."
-Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done. The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.
-Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
 
-- HMS Leander Kai
-- Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%; At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
-- Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
+> Skill: Increase own AP damage by 25%.
+
+> Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done. The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.
+
+> Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
+
+![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - [HMS Leander Kai](https://azurlane.koumakan.jp/Leander)
+> Skill: 
+
+>> Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
+
+>> At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
+
+> Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
  
 >>> Tier 1.5:
