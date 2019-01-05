@@ -21,7 +21,7 @@ Good reading, and godspeed cap'n!
 - Submarines will NOT be tiered until more data on their live, peak performance is collected. This will take a while, folks.
  
 
-> Tier Explanations:
+#### Tier Explanations:
 - Tier 0              : Terrifyingly effective units with little to no real competition in their class, usually by virtue of exceptionally strong skills and statlines.
 - Tier 1              : Generally very effective units, albeit marred by some minor flaw that can be easily overlooked or fixed.
 - Tier 1.5            : Niche, quirky or plain but solid, these units can perform their roles very well but will need to be handled with care.
@@ -32,7 +32,7 @@ Good reading, and godspeed cap'n!
 
  
 
-> Retrofit/Kai Priority List:
+#### Retrofit/Kai Priority List:
 - DD                  : Laffey > Ayanami = Z23 > Javelin > Cygnet > Fortune > Hammann > N/A
 - CL                  : Leander > Abukuma > Ajax > N/A
 - CA                  : Suffolk > Furutaka/Kako
@@ -40,14 +40,14 @@ Good reading, and godspeed cap'n!
 - CV/L                : Ranger > Shouhou > Bogue > Langley > Long Island > N/A
  
 
-> Assorted notes:
+#### Assorted notes:
 - Read the VERY IMPORTANT OPENING NOTE at the top.
 - The 'loadout' listed under CV/L entries details the number of planes each unit gets; eg. Unicorn gets 3 Fighters / 0 Dive Bombers / 3 Torpedo Bombers.
  
 
-=================================
-DD (Destroyer, blue torpedo icon)
-=================================
+---
+## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
+---
  
 >>> Tier 0:
 - USS Laffey Kai
