@@ -64,6 +64,14 @@ Good reading, and godspeed cap'n!
 
 > Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.
 Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.
+
+![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - [KMS Z46](https://azurlane.koumakan.jp/Z46)
+- Desc: "KMSan Diego".
+> Skill: Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff; increases AP damage by 25%
+
+>Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
+That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
+
 ### Tier 0.5: 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - [IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)
 - Desc: "Nuclear Launch Detected".
