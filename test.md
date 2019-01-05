@@ -347,28 +347,49 @@ Good gunnery with a skill that supports it, good Evasion with a proc-on-fire ski
 > Desc: A great statline, a discount price-tag, a Firepower buff for cruisers, a very annoying smokescreen for your PvP foes to deal with, and a smile to melt your heart. What's not to like?
 
  
->>> Tier 1.5:
-- USS Helena (T0 vs bosses)
-- Skill: 60% chance every 20s to make all enemies on the screen take 40% more damage for 10s
-- Desc: Helena is exceedingly good against bosses and merely alright everywhere else. 
-While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
+### Tier 1.5:
+---
+![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - [USS Helena](https://azurlane.koumakan.jp/Helena) **(T0 vs bosses)**
+> Skill: 60% chance every 20s to make all enemies on the screen take 40% more damage for 10s
 
-- USS Brooklyn
-- Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%.
-- Desc: A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
+> Desc: Helena is exceedingly good against bosses and merely alright everywhere else. 
+
+> While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
+
+![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - [USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)
+> Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%.
+
+> Desc: A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
  
-- HMS Ajax Kai
-- Skill: 60% chance every 20s to boost Firepower by 40% for 10s; increases damage dealt to CAs by 25%
-- Desc: Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff. Powerful and rather inexpensive, but beware the severely subpar HP.
+![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - [HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)
+> Skill: 
 
-- HMS Belfast
-- Skill: Increase HE damage by 25% and chance to ignite fire by 3%; 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
-- Desc: Hot maid, in more ways than one. Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.
-Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
+>> 60% chance every 20s to boost Firepower by 40% for 10s
 
-- IJN Abukuma Kai
-- Skill: 15% boost of torpedo stat to every DD in the fleet; 30% chance to launch a second salvo on torpedo launch
-- Desc: Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice. Not too flashy, but sturdy enough and dependable.
+>> Increases damage dealt to CAs by 25%
+
+>  Desc: Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff. Powerful and rather inexpensive, but beware the severely subpar HP.
+
+![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - [HMS Belfast](https://azurlane.koumakan.jp/Belfast)
+
+>  Skill: 
+
+>> Increase HE damage by 25% and chance to ignite fire by 3% 
+
+>> 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
+
+> Desc: Hot maid, in more ways than one. Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.
+
+> Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
+
+![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - [IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)
+> Skill: 
+
+>> 15% boost of torpedo stat to every DD in the fleet
+
+>> 30% chance to launch a second salvo on torpedo launch
+
+> Desc: Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice. Not too flashy, but sturdy enough and dependable.
 
 
 >>> Tier 2:
