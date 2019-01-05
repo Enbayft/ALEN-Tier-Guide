@@ -54,6 +54,7 @@ Good reading, and godspeed cap'n!
 - Desc: "Vorpal Bunny".
 
 > Skill: 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s; every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.
+
 > While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.
 
 - IJN Ayanami Kai
