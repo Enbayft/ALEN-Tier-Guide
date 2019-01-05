@@ -666,7 +666,15 @@ Damage control is about lowering the incoming damage as much as it is about prev
 
 > Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
->>> Tier 1:
+![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - [IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)
+
+> Skill: Increases Firepower by 20% || Increases main fleet Firepower by 15%
+
+> Desc: THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
+
+### Tier 1:
+---
+
 ![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - [USS Arizona](https://azurlane.koumakan.jp/Arizona)
 - Desc: WAIT DON'T lEAVE JUST YET. 
 
@@ -689,28 +697,30 @@ Damage control is about lowering the incoming damage as much as it is about prev
 
 > Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
-- USS Washington
-- Skill: 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment); when South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
+![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - [USS Washington](https://azurlane.koumakan.jp/Washington)
 - Desc: "Smile for the FCR!"
-An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.
-As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
-- IJN Hyuuga
-- Skill: Increases Firepower by 20%; Increases main fleet Firepower by 15%
-- Desc: THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
+> Skill: 
 
-- KMS Tirpitz
-- Skill: 30% damage increase when Tirpitz is the only BB/BC in the fleet; Every 15s, launches 4 Magnetic Torpedoes
-- Desc: "Torpitz? Neetpitz? Derpitz?"
-One of the hardest hitting BBs in the game, provided you cater to her social anxiety.
-Pair her with CV/CVL/BBVs only, because her damage increase is the main reason for her power; the homing torpedoes are the sweet, sweet icing on the cake and let her get some free damage on enemy mobs or, more often, intercept suicide boats before they even come close.
-As good as all this sounds, though, her total lack of synergy with other battleships seriously hampers her usability, precluding her access to great buffers like Duke of York or Hood as well as severely weakening her.
+>> 70% chance every 20s to fire a strong barrage (mid-ranged conal machinegun sweep, long range focused bombardment)
 
+>> When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
+
+> An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.
+
+> As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
  
->>> Tier 1.5:
-- USS South Dakota
-- Skill: Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time; 30% chance to do double damage when firing main gun
-- Desc: While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
+### Tier 1.5:
+---
+![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - [USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)
+
+>  Skill: 
+
+>> Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
+
+>> 30% chance to do double damage when firing main gun
+
+> Desc: While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
 
 - HMS Queen Elizabeth (T0 in any HMS fleet)
 - Skill: Increases Firepower, Torpedo, Air Power, AA, Reload, and Evasion of HMS ships by 15%
