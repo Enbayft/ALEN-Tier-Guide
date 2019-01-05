@@ -541,6 +541,15 @@ _N/A_
 
 > Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
+![CA](https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png "IJN Takao") - [IJN Takao](https://azurlane.koumakan.jp/Takao)
+> Skill:
+
+>> 30% chance to do double damage when firing main gun
+
+>> 30% chance to launch a second salvo on torpedo launch
+
+> Desc: Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
+
 ![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - [IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka) [IJN Kako Kai](https://azurlane.koumakan.jp/Kako)
 
 > Skill: 
@@ -551,59 +560,100 @@ _N/A_
 
 > Desc: Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-- KMS Deutschland
-- Skill: +35% damage against DD and CL.
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - [KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)
 - Desc: Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.
-Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.
-A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
+
+> Skill: +35% damage against DD and CL.
+
+> Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.
+
+> A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
 
  
->>> Tier 2:
-- USS Northampton
-- Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
-- Desc: What you use when you don't have Wichita but still want a powerful, buff-capable CA. She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
+### Tier 2:
+---
 
-- HMS London
-- Skill: Increases Firepower of the entire frontline by 15%
-- Desc: HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills. London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
+![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - [USS Northampton](https://azurlane.koumakan.jp/Northampton)
 
-- IJN Takao
-- Skill: 30% chance to do double damage when firing main gun; 30% chance to launch a second salvo on torpedo launch
-- Desc: Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
+> Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
 
-- IJN Atago
-- Skill: Increases HE Damage by 15%, HE burn chance by 12% and burn damage by 50%; 30% chance to launch a second salvo on torpedo launch
-- Desc: Atago is hot as hell in more ways than one. The most gun-focused of the Takao-class, she provides the most stable output and a considerable amount of it as well - though of course not as much as a Gun-CA would. Let the seas burn.
+> Desc: What you use when you don't have Wichita but still want a powerful, buff-capable CA. She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
-- IJN Maya
-- Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
-- Desc: Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps than any other CA, which is remarkable on its own right; however, such consistency is paid with an even lower potential damage output than that of Atago.
-Also, she's slightly better at AA than her sisters (key word being "slightly", though).
+![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - [HMS London](https://azurlane.koumakan.jp/London)
 
-- KMS Admiral Hipper
-- Skill: Every 30s, spawns 2 shields that last 15s and blocks 10 shots; 8% chance to reduce any damage taken by 50% on taking damage
+> Skill: Increases Firepower of the entire frontline by 15%
+
+> Desc: HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills. London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
+
+![CA](https://azurlane.koumakan.jp/w/images/3/33/AtagoChibi.png "IJN Atago") - [IJN Atago](https://azurlane.koumakan.jp/Atago)
+> Skill: 
+
+>> Increases HE Damage by 15%, HE burn chance by 12% and burn damage by 50%
+
+>> 30% chance to launch a second salvo on torpedo launch
+
+> Desc: Atago is hot as hell in more ways than one. The most gun-focused of the Takao-class, she provides the most stable output and a considerable amount of it as well - though of course not as much as a Gun-CA would. Let the seas burn.
+
+![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - [IJN Maya](https://azurlane.koumakan.jp/Maya)
+
+> Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
+
+> Desc: Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps than any other CA, which is remarkable on its own right; however, such consistency is paid with an even lower potential damage output than that of Atago.
+
+> Also, she's slightly better at AA than her sisters (key word being "slightly", though).
+
+![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - [KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)
 - Desc: "HAAH?!"
+
+> Skill: 
+
+>> Every 30s, spawns 2 shields that last 15s and blocks 10 shots
+
+>> 8% chance to reduce any damage taken by 50% on taking damage
+
 Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
 
 
->>> Honourable Mentions
-- KMS Prinz Eugen
-- Skill: 70% chance every 20s to spawn 3 shields that lasts 10s and blocks 10 shots
-- Desc: It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.
-If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
+### Honourable Mentions
+![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - [KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)
+
+> Skill: 70% chance every 20s to spawn 3 shields that lasts 10s and blocks 10 shots
+
+> Desc: It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.
+
+> If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
 
  
 
-==============================================
-BB/BC (Battleship/Battlecruiser, Red gun icon)
-==============================================
+---
+## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
+### Tier 0:
+---
 
->>> Tier 0:
-- HMS Hood 
-- Skill: 70% chance on firing main gun to fire a special barrage and increase main fleet reload by 40% for 8s
+![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - [IJN Amagi](https://azurlane.koumakan.jp/Amagi)
+- Desc: If you can't decide what to pick, pick it all.
+
+> Skill: 
+
+>> -9% FP/Torp/Aviation to all enemies as long as she's alive
+
+>> -15% Ignition dmg and +10% Evasion Rate for backline as long as she's alive
+
+>> 70% chance on Main Gun fire, launches a frontal barrage (damage based on skill level), also if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
+
+> Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
+
+### Tier 0.5:
+---
+
+![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - [HMS Hood](https://azurlane.koumakan.jp/Hood)
 - Desc: "More than just a sub". 
-Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.
-Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
+
+>  Skill: 70% chance on firing main gun to fire a special barrage and increase main fleet reload by 40% for 8s
+
+> Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.
+
+> Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
 >>> Tier 1:
 - USS Arizona
