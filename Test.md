@@ -74,14 +74,15 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
 
 ![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - [KMS Z46](https://azurlane.koumakan.jp/Z46)
 - Desc: "KMSan Diego".
-> Skill: 
+> **Skill:**
 
->> Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff
+>> **Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff**
 
->> Increases AP damage by 25%
+>> **Increases AP damage by 25%**
 
-> Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
-That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
+> **Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.**
+
+> **That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.**
 
 ### Tier 0.5:
 ---
