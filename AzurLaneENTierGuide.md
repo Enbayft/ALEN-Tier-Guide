@@ -34,8 +34,8 @@ Good reading, and godspeed cap'n!
  
 
 #### Retrofit/Kai Priority List:
-- DD                  : Laffey > Ayanami = Z23 > Javelin > Cygnet > Fortune > Hammann > N/A
-- CL                  : Leander > Abukuma > Ajax > N/A
+- DD                  : Laffey > Ayanami = Z23 > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
+- CL                  : Jintsuu > Leander > Abukuma > Ajax > N/A
 - CA                  : Suffolk > Furutaka/Kako
 - BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST NODE)
 - CV/L                : Ranger > Shouhou > Bogue > Langley > Long Island > N/A
@@ -91,7 +91,8 @@ Proud owner of a quick-firing, high-volume, AP conal barrage with four homing to
 On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
 ![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
-* Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
+* Skill:
+  * 6% chance on Main Gun fire for +40% FP/Torp/Evasion/Reload to self.
 
 * Desc: 
 >Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
