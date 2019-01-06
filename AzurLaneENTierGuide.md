@@ -949,10 +949,8 @@ _N/A_
 ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- [IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku) **(Tier 0 if deployed with Shoukaku)**
 
 * Skill: 
-
->> Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
-
->> When paired, increases Air Power by 20% and takes 20% less damage
+  * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
+  * When paired, increases Air Power by 20% and takes 20% less damage
 
 * Loadout: 2/3/3
 
