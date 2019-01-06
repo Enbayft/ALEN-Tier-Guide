@@ -214,7 +214,7 @@ Good reading, and godspeed cap'n!
 
 * Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **Tier 1.5 if running full Z-series setup
+![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **Tier 1.5 if running full Z-series setup**
 * Skill: Increases Firepower and Evasion of Z-series ships by 40%
 
 * Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
