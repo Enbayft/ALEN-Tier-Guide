@@ -37,7 +37,7 @@ Good reading, and godspeed cap'n!
 - DD                  : Laffey > Ayanami = Z23 > Tanikaze > Javelin > Cygnet > Fortune > Hammann > N/A
 - CL                  : Jintsuu > Leander > Abukuma > Ajax > N/A
 - CA                  : Suffolk > Furutaka/Kako
-- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST NODE)
+- BB/C                : Yamashiro/Fusou (DO NOT TAKE LAST TWO NODES)
 - CV/L                : Ranger > Shouhou > Bogue > Langley > Long Island > N/A
  
 
