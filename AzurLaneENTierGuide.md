@@ -22,13 +22,14 @@ Good reading, and godspeed cap'n!
  
 
 #### Tier Explanations:
-- Tier 0              : Terrifyingly effective units with little to no real competition in their class, usually by virtue of exceptionally strong skills and statlines.
-- Tier 1              : Generally very effective units, albeit marred by some minor flaw that can be easily overlooked or fixed.
-- Tier 1.5            : Niche, quirky or plain but solid, these units can perform their roles very well but will need to be handled with care.
-- Tier 2              : Very niche and/or flawed but still noteworthy, these units can nevertheless do you good but will require serious work to get them to.
-- Not Tiered		  : Ships that range from 'usable' to 'bottom of the barrel', but in both cases not good enough to make it on the list.
-- Pro Team Players    : Ships that, while unremarkable on their own, become exceedingly good when deployed with each other. They are tiered as a single unit.
-- Honorable Mentions  : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
+- Tier 0                : The best of the best, rivaled by few and matched by none. They set the bar for everyone else.
+- Tier 0.5              : Terrifyingly effective units with little to no real competition in their class or function, usually by virtue of exceptionally strong skills and statlines.
+- Tier 1                : Generally very effective units, albeit marred by some minor flaw that can be easily overlooked or fixed.
+- Tier 1.5              : Niche, quirky or plain but solid, these units can perform their roles very well but will need to be handled with care.
+- Tier 2                : Very niche and/or flawed but still noteworthy, these units can nevertheless do you good but will require serious work to get them to.
+- Not Tiered            : Ships that range from 'usable' to 'bottom of the barrel', but in both cases not good enough to make it on the list.
+- Pro Team Players      : Ships that, while unremarkable on their own, become exceedingly good when deployed with each other. They are tiered as a single unit.
+- Honourable Mentions   : Ships that, while too weak or unwieldy for general usage, nonetheless possess some interesting or useful quirk that may warrant attention.
 
  
 
