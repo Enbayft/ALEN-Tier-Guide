@@ -1000,7 +1000,9 @@ Loadout: 3/3/2
 > Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
 
->>> Tier 2:
+### Tier 2:
+---
+
 ![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - [USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)
 > Skill: 
 
