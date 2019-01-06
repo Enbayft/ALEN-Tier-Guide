@@ -810,7 +810,7 @@ Their Kai is unique in that it is a sidegrade rather than an upgrade: when turne
 > Desc: Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself.
 
 ### Honorable Mention:
-#### ![BM](https://azurlane.koumakan.jp/Terror "HMS Terror") ![BM](https://azurlane.koumakan.jp/Erebus "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
+#### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
 - Desc: "The poor man's Barrage Boat."
 
 > Skill: Every 20s, 60% chance to fire a special barrage.
@@ -820,18 +820,29 @@ Their Kai is unique in that it is a sidegrade rather than an upgrade: when turne
 
 > Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
  
-- HMS Nelson & Rodney
-- Skill: 40% chance to fire a special barrage when firing main gun.
+#### ![BM](https://azurlane.koumakan.jp/w/images/b/bc/NelsonChibi.png "HMS Nelson") ![BM](https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png "HMS Erebus") - [HMS Nelson](https://azurlane.koumakan.jp/Nelson) [HMS Rodney](https://azurlane.koumakan.jp/Rodney)
 - Desc: "Newbie traps."
-So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?
-Well, no, not really. It'll be like that only early on, where enemies tend to fall to a stiff breeze anyway, but the moment they're faced by serious opposition and normal (eg. 1.5k / 2k HP per trash mob) HP pools, the weaknesses of said barrage quickly come to the fore: low proc rate, proc fixed to main gun fire (which means having to take faster and weaker guns to fish for said procs), super-wide pattern subject to massive scatter and unable to hit what's directly in front of them, poor armour modifiers and poor base damage.
-In short, their barrage is the only notable feature they have - and it's both unreliable and weak.
-Avoid.
 
-- USS Colorado & West Virginia & Maryland
-- Skill: 40% chance to fire a special barrage when firing main gun; (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
+> Skill: 40% chance to fire a special barrage when firing main gun.
+
+> So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?
+
+< Well, no, not really. It'll be like that only early on, where enemies tend to fall to a stiff breeze anyway, but the moment they're faced by serious opposition and normal (eg. 1.5k / 2k HP per trash mob) HP pools, the weaknesses of said barrage quickly come to the fore: low proc rate, proc fixed to main gun fire (which means having to take faster and weaker guns to fish for said procs), super-wide pattern subject to massive scatter and unable to hit what's directly in front of them, poor armour modifiers and poor base damage.
+
+> In short, their barrage is the only notable feature they have - and it's both unreliable and weak.
+
+> Avoid.
+
+#### ![BB](https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png "USS Colorado") ![BB](https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png "USS West Virginia") ![BB](https://azurlane.koumakan.jp/Maryland "USS Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
 - Desc: "The pits."
-You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.
+
+> Skill: 
+
+>> 40% chance to fire a special barrage when firing main gun
+
+>> (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
+
+> You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.
 Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
 
 
