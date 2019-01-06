@@ -52,231 +52,205 @@ Good reading, and godspeed cap'n!
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
 - Desc: "Vorpal Bunny".
 
-> **Skill:** 
+* Skill:
+  * 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.**
+  * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.**
 
->> **5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s.**
-
->> **Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.**
-
-> **While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.**
+* While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.**
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - [KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)
 - Desc: "Gun Fuhrer".
 
-> **Skill:**
+* Skill:
+  * 5% chance on firing main gun to boost Firepower by 60% for 8s
+  * Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.**
 
->> **5% chance on firing main gun to boost Firepower by 60% for 8s**
+* Special: Can equip CL guns.
 
->> **Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.**
+* Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.
 
-> **Special: Can equip CL guns.**
-
-> **Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.
-Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.**
+* Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.**
 
 ![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - [KMS Z46](https://azurlane.koumakan.jp/Z46)
 - Desc: "KMSan Diego".
-> **Skill:**
 
->> **Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff**
+* Skill:
+  * Whenever enemy planes are shot down within own AA range, increase FP by 15% of own total AA stat (Only base stat and gear is counted) and if skill procs again during its duration, it refreshes the buff
+  * Increases AP damage by 25%
 
->> **Increases AP damage by 25%**
+* Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
 
-> **Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
-That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.**
+* That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
 
 ### Tier 0.5:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - [IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)
 - Desc: "Nuclear Launch Detected".
-> **Skill:**
 
->> **5% chance on firing main gun to boost Torpedo by 60% for 8s**
+* Skill:
+  * 5% chance on firing main gun to boost Torpedo by 60% for 8s
+  * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
 
->> **70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s**
+* Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.
 
-> **Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.**
-
-> **On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.**
+* On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
 ![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - [Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)
-> **Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s**
+* Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
 
-> **Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.**
+* Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 ### Tier 1: 
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- [USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit) [USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)
 - Desc: "The bubblewrap fights back!"
-> **Skill:**
 
->> **When HP falls under 20%, heals 25% of max HP once per battle**
+* Skill:
+  * When HP falls under 20%, heals 25% of max HP once per battle
+  * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
 
->> **60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds**
+* Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.
 
-> **Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.**
-
-> **As it is for Phoenix, they are best used in mobbing fleets.**
+* As it is for Phoenix, they are best used in mobbing fleets.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - [IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)
-> **Skill:**
+* Skill:
+  * 15% boost of torpedo stat to the frontline
+  * 30% chance to launch a second salvo on torpedo launch
 
->> **15% boost of torpedo stat to the frontline**
-
->> **30% chance to launch a second salvo on torpedo launch**
-
-> **Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.**
+* Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
  
 ### Tier 1.5:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - [HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)
-> **Skill:**
+* Skill:
+  * 5% chance on firing main gun to boost Evasion by 60% for 8s
+  * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
->> **5% chance on firing main gun to boost Evasion by 60% for 8s**
-
->> **70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s**
-
-> **Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.**
+* Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
 
 ![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - [Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)
-> **Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.**
+* Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
 
-> **Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.**
+* Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
 
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - [IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)
-> **Skill:**
+* Skill:
+  * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
+  * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
 
->> **When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%**
+* Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
 
->> **When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.**
-
-> **Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
-Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.**
+* Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - [KMS Z25](https://azurlane.koumakan.jp/Z25)
-> **Skill:**
+* Skill:
+  * 60% activation every 20s, increases own FP by 40% for 10s
+  * Reduces the damage taken by the Flagship by 25%; can equip CL guns.
 
->> **60% activation every 20s, increases own FP by 40% for 10s**
+* Special: Can equip CL guns.
 
->> **Reduces the damage taken by the Flagship by 25%; can equip CL guns.**
-
-> **Special: Can equip CL guns.**
-
-> **Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.**
+* Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/4b/Z35Chibi.png "Z35") - [KMS Z35](https://azurlane.koumakan.jp/Z35)
 - Desc: "Vorpal Häschen"
-> **Skill:**
+* Skill:
+  * 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s
+  * Upon expiration, decrease reload by 100% for 3s.
 
->> **70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s**
-
->> **Upon expiration, decrease reload by 100% for 3s.**
-
-> **Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.**
+* Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 
 ### Tier 2:
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png "Charles Ausburne") - [USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne) **(T1.5 if deployed with CA)** 
-> **Skill:**
+* Skill:
+  * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
+  * 60% activation every 20s, increases own FP by 40% for 10s.
 
->> **4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s**
-
->> **60% activation every 20s, increases own FP by 40% for 10s.**
-
-> **Desc: Another slippery little bastard, obsessed with justice and GOING FAST. Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.**
+* Desc: Another slippery little bastard, obsessed with justice and GOING FAST. Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/EldridgeChibi.png "USS Eldridge")- [USS Eldridge](https://azurlane.koumakan.jp/Eldridge)
-> **Skill: Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).**
+* Skill: Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
-> **Desc: Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to dange.**
+* Desc: Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to dange.
 
 ![DD](https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png "USS Fletcher") - [USS Fletcher](https://azurlane.koumakan.jp/Fletcher) **T1 w/ other Charles Ausburne and Nicholas)**
-> **Skill:**
+* Skill:
+  * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
+  * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
 
->> **Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%**
-
->> **Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%**
-
-> **Desc: Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.**
+* Desc: Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
 
 ![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - [USS Maury](https://azurlane.koumakan.jp/Maury)
-> **Skill:**
+* Skill:
+  * 40% chance every 10s to raise evasion by 60% for 8s
+  * 30% chance to launch a second salvo on torpedo launch
 
->> **40% chance every 10s to raise evasion by 60% for 8s**
-
->> **30% chance to launch a second salvo on torpedo launch**
-
-> **Desc: Another DD with double-launch skill, always useful to have. The quick-firing Evasion skill is also fairly welcome.**
+* Desc: Another DD with double-launch skill, always useful to have. The quick-firing Evasion skill is also fairly welcome.
  
 ![DD](https://azurlane.koumakan.jp/w/images/6/64/NicholasChibi.png "USS Nicholas") - [USS Nicholas](https://azurlane.koumakan.jp/Nicholas) **(T1.5 w/ Fletcher)**
-> **Skill:**
+* Skill:
+  * 5% chance on main gun fire for +40% Evasion and -40% plane damage to self for 8 seconds
+  * 60% chance every 20s for +40% Firepower to self.
 
->> **5% chance on main gun fire for +40% Evasion and -40% plane damage to self for 8 seconds**
+* Desc: The Nick is a true generalist, competent in everything and excelling in nothing.
 
->> **60% chance every 20s for +40% Firepower to self.**
+* Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.
 
-> **Desc: The Nick is a true generalist, competent in everything and excelling in nothing.**
-
-> **Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.**
-
-> **Make sure to bring a Fletcher along to capitalise on her strenghts.**
+* Make sure to bring a Fletcher along to capitalise on her strenghts.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- [IJN Shigure](https://azurlane.koumakan.jp/Shigure)
-> **Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s**
+* Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s
 
-> **Desc: Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.**
+* Desc: Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.
  
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/NiizukiChibi.png "IJN Niizuki")- [IJN Niizuki](https://azurlane.koumakan.jp/Niizuki)
-> **Skill:**
+* Skill:
+  * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
+  * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
 
->> **25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)**
+* Desc: An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.
 
->> **25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.**
+* Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
-> **Desc: An oddity among DDs and especially IJN ones, Niizuki focuses on AA and guns over torps - and does so with a decent measure of success, too.**
+![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - [KMS Z1](https://azurlane.koumakan.jp/Z1) **Tier 1.5 if running full Z-series setup
+* Skill: Increases Firepower and Evasion of Z-series ships by 40%
 
-> **Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.**
-
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - [KMS Z1](https://azurlane.koumakan.jp/Z1) **Tier 1.5 if running full Z-series setup**
-> **Skill: Increases Firepower and Evasion of Z-series ships by 40%**
-
-> **Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.**
-
+* Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
  
 ### Pro Team Players:
 #### ![DD](https://azurlane.koumakan.jp/w/images/6/61/CrescentKaiChibi.png "Crescent Kai") ![DD](https://azurlane.koumakan.jp/w/images/6/6e/CometKaiChibi.png "Comet Kai") ![DD](https://azurlane.koumakan.jp/w/images/5/5f/CygnetKaiChibi.png "Cygnet Kai") [HMS Crescent Kai](https://azurlane.koumakan.jp/Crescent), [Comet Kai](https://azurlane.koumakan.jp/Comet), [Cygnet Kai](https://azurlane.koumakan.jp/Cygnet#) **(T2)**
 - Description: "Da da da, smoke screen everydaaaay". 
 
-> **Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.**
+* Skill (Crescent): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.
 
-> **Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.**
+* Skill (Comet): increases the Torp stat of DDs in the fleet by 15%, does not stack with other command skills that have a similar effect || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.
 
-> **Skill (Cygnet): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.**
+* Skill (Cygnet): 30% activation every 20 seconds, evade all incoming attacks for 6 seconds || Deploys a smokescreen (+40% Evasion Rate for ships inside the smoke) for 5s at the beginning of the battle and every 15s after that at a 30% chance.
 
-> **This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.**
+* This group of HMS DD is mostly remarkable for their low Oil cost, high Evasion, and being the cheapest delivery vehicle in the game for mass smokescreens.
 
-> **Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.**
- 
+* Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
 ### Honorable Mention:
 #### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) [Downes](https://azurlane.koumakan.jp/Downes)
 - Desc: "Cheap and inexpensive bubblewrap".
 
-> **Skill: When HP falls under 20%, heals 25% of max HP once per battle**
+* Skill: When HP falls under 20%, heals 25% of max HP once per battle
 
-> **While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.**
+* While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
-> **Skill: Increases experience gained by DDs by +18%.**
+* Skill: Increases experience gained by DDs by +18%.
 
-> **Desc: The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.**
+* Desc: The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
-> **Skill: 30% chance to launch a second salvo on torpedo launch**
+* Skill: 30% chance to launch a second salvo on torpedo launch
 
-> **Desc: One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.**
+* Desc: One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
 
 ---
 ## CL ![CL](https://azurlane.koumakan.jp/w/images/2/20/CL_img.png "CL Icon")
