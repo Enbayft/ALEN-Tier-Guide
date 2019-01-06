@@ -216,7 +216,7 @@ Devastating if the stars align and the debuff procs on her first torp hit, but l
 
 >> **60% chance every 20s for +40% Firepower to self.**
 
-> **Desc: The Nick is a true generalist, competent in everything and excelling in nothing. **
+> **Desc: The Nick is a true generalist, competent in everything and excelling in nothing.**
 
 > **Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.**
 
