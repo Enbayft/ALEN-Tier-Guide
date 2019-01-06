@@ -49,7 +49,7 @@ Good reading, and godspeed cap'n!
 ## DD ![DD](https://azurlane.koumakan.jp/w/images/thumb/f/f6/DD_img.png/45px-DD_img.png "DD Icon")
 ### Tier 0:
 ---
-![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - **[USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)**
 - Desc: "Vorpal Bunny".
 
 * Skill:
@@ -58,7 +58,7 @@ Good reading, and godspeed cap'n!
 
 * While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.**
 
-![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - [KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - **[KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)**
 - Desc: "Gun Fuhrer".
 
 * Skill:
@@ -71,7 +71,7 @@ Good reading, and godspeed cap'n!
 
 * Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.**
 
-![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - [KMS Z46](https://azurlane.koumakan.jp/Z46)
+![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - **[KMS Z46](https://azurlane.koumakan.jp/Z46)**
 - Desc: "KMSan Diego".
 
 * Skill:
@@ -84,7 +84,7 @@ Good reading, and godspeed cap'n!
 
 ### Tier 0.5:
 ---
-![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - [IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/8/8b/AyanamiKaiChibi.png "Ayanami Kai") - **[IJN Ayanami Kai](https://azurlane.koumakan.jp/Ayanami#Retrofit)**
 - Desc: "Nuclear Launch Detected".
 
 * Skill:
@@ -95,14 +95,14 @@ Good reading, and godspeed cap'n!
 
 * On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
-![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - [Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)
+![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
 
 * Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 ### Tier 1: 
 ---
-![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- [USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit) [USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
 - Desc: "The bubblewrap fights back!"
 
 * Skill:
@@ -113,7 +113,7 @@ Good reading, and godspeed cap'n!
 
 * As it is for Phoenix, they are best used in mobbing fleets.
 
-![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - [IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)
+![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
 * Skill:
   * 15% boost of torpedo stat to the frontline
   * 30% chance to launch a second salvo on torpedo launch
@@ -122,19 +122,19 @@ Good reading, and godspeed cap'n!
  
 ### Tier 1.5:
 ---
-![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - [HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/f/f3/JavelinKaiChibi.png "Javelin Kai") - **[HMS Javelin Kai](https://azurlane.koumakan.jp/Javelin#Retrofit)**
 * Skill:
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
 * Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
 
-![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - [Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)
+![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - **[Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)**
 * Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
 
 * Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
 
-![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - [IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)
+![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
@@ -143,7 +143,7 @@ Good reading, and godspeed cap'n!
 
 * Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
 
-![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - [KMS Z25](https://azurlane.koumakan.jp/Z25)
+![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - **[KMS Z25](https://azurlane.koumakan.jp/Z25)**
 * Skill:
   * 60% activation every 20s, increases own FP by 40% for 10s
   * Reduces the damage taken by the Flagship by 25%; can equip CL guns.
@@ -152,7 +152,7 @@ Good reading, and godspeed cap'n!
 
 * Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
 
-![DD](https://azurlane.koumakan.jp/w/images/4/4b/Z35Chibi.png "Z35") - [KMS Z35](https://azurlane.koumakan.jp/Z35)
+![DD](https://azurlane.koumakan.jp/w/images/4/4b/Z35Chibi.png "Z35") - **[KMS Z35](https://azurlane.koumakan.jp/Z35)**
 - Desc: "Vorpal Häschen"
 * Skill:
   * 70% activation every 20s, increase firepower by 50% and Reload by 200% for 10s
@@ -163,33 +163,33 @@ Good reading, and godspeed cap'n!
 
 ### Tier 2:
 ---
-![DD](https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png "Charles Ausburne") - [USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne) **(T1.5 if deployed with CA)** 
+![DD](https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png "Charles Ausburne") - **[USS Charles Ausburne](https://azurlane.koumakan.jp/Charles_Ausburne)** **(T1.5 if deployed with CA)** 
 * Skill:
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
 
 * Desc: Another slippery little bastard, obsessed with justice and GOING FAST. Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
-![DD](https://azurlane.koumakan.jp/w/images/8/8b/EldridgeChibi.png "USS Eldridge")- [USS Eldridge](https://azurlane.koumakan.jp/Eldridge)
+![DD](https://azurlane.koumakan.jp/w/images/8/8b/EldridgeChibi.png "USS Eldridge")- **[USS Eldridge](https://azurlane.koumakan.jp/Eldridge)**
 * Skill: Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
 * Desc: Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to dange.
 
-![DD](https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png "USS Fletcher") - [USS Fletcher](https://azurlane.koumakan.jp/Fletcher) **T1 w/ other Charles Ausburne and Nicholas)**
+![DD](https://azurlane.koumakan.jp/w/images/3/33/FletcherChibi.png "USS Fletcher") - **[USS Fletcher](https://azurlane.koumakan.jp/Fletcher)** **T1 w/ other Charles Ausburne and Nicholas)**
 * Skill:
   * Increases Firepower and Evasion of all Fletcher-Class in fleet by 30%
   * Increases Firepower, Torpedo, and Reload of DDs in the fleet by 10%
 
 * Desc: Lynchpin of the Fletcher Trio, think of her as an USS Z1 with a greater focus on gunnery as opposed to torps, as befitting her nation's doctrine. Very solid and dependable, but obviously better with other Fletchers.
 
-![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - [USS Maury](https://azurlane.koumakan.jp/Maury)
+![DD](https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png "USS Maury") - **[USS Maury](https://azurlane.koumakan.jp/Maury)**
 * Skill:
   * 40% chance every 10s to raise evasion by 60% for 8s
   * 30% chance to launch a second salvo on torpedo launch
 
 * Desc: Another DD with double-launch skill, always useful to have. The quick-firing Evasion skill is also fairly welcome.
  
-![DD](https://azurlane.koumakan.jp/w/images/6/64/NicholasChibi.png "USS Nicholas") - [USS Nicholas](https://azurlane.koumakan.jp/Nicholas) **(T1.5 w/ Fletcher)**
+![DD](https://azurlane.koumakan.jp/w/images/6/64/NicholasChibi.png "USS Nicholas") - **[USS Nicholas](https://azurlane.koumakan.jp/Nicholas)** **(T1.5 w/ Fletcher)**
 * Skill:
   * 5% chance on main gun fire for +40% Evasion and -40% plane damage to self for 8 seconds
   * 60% chance every 20s for +40% Firepower to self.
@@ -200,12 +200,12 @@ Good reading, and godspeed cap'n!
 
 * Make sure to bring a Fletcher along to capitalise on her strenghts.
 
-![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- [IJN Shigure](https://azurlane.koumakan.jp/Shigure)
+![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- **[IJN Shigure](https://azurlane.koumakan.jp/Shigure)**
 * Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s
 
 * Desc: Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.
  
-![DD](https://azurlane.koumakan.jp/w/images/e/eb/NiizukiChibi.png "IJN Niizuki")- [IJN Niizuki](https://azurlane.koumakan.jp/Niizuki)
+![DD](https://azurlane.koumakan.jp/w/images/e/eb/NiizukiChibi.png "IJN Niizuki")- **[IJN Niizuki](https://azurlane.koumakan.jp/Niizuki)**
 * Skill:
   * 25% chance every 20s, Increase entire fleet's Reload by 25% for 8s (does not stack with multiple instances of the same skill)
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s. Has MGM+1.
@@ -214,7 +214,7 @@ Good reading, and godspeed cap'n!
 
 * Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
-![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - [KMS Z1](https://azurlane.koumakan.jp/Z1) **Tier 1.5 if running full Z-series setup
+![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **Tier 1.5 if running full Z-series setup
 * Skill: Increases Firepower and Evasion of Z-series ships by 40%
 
 * Desc: Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
@@ -257,7 +257,7 @@ Good reading, and godspeed cap'n!
 ### Tier 0:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "IJN Jintsuu Kai") - [IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)
+![CL](https://azurlane.koumakan.jp/w/images/b/b7/JintsuuKaiChibi.png "IJN Jintsuu Kai") - **[IJN Jintsuu Kai](https://azurlane.koumakan.jp/Jintsuu#Retrofit)**
 - Desc: "The fox says 'torp'."
 
 * Skill: 
@@ -272,7 +272,7 @@ Good reading, and godspeed cap'n!
 ### Tier 1:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - [USS Cleveland](https://azurlane.koumakan.jp/Cleveland)
+![CL](https://azurlane.koumakan.jp/w/images/4/4a/ClevelandChibi.png "USS Cleveland") - **[USS Cleveland](https://azurlane.koumakan.jp/Cleveland)**
 - Desc: "The Original Dadster". 
 
 * Skill: 
@@ -283,13 +283,13 @@ Good reading, and godspeed cap'n!
 
 * All in all, strong and dependable, just like her.
 
-![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix")- [USS Phoenix](https://azurlane.koumakan.jp/Phoenix)
+![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
 
 * Skill: Once per battle, when HP falls under 20%, heals 25% HP and increases firepower by 30% for 15s.
 
 * Desc: Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "USS St. Louis") - [USS St. Louis](https://azurlane.koumakan.jp/St._Louis)
+![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "USS St. Louis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
 - Desc: "It's not luck, it's all skill".
 
 * Skill: 
@@ -298,7 +298,7 @@ Good reading, and godspeed cap'n!
 
 * Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
-![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - [HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)
+![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
 - Desc: "Worth her weight in gold."
 
 * Skill: Increase own AP damage by 25%.
@@ -307,7 +307,7 @@ Good reading, and godspeed cap'n!
 
 * Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
 
-![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - [HMS Leander Kai](https://azurlane.koumakan.jp/Leander)
+![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
   * At battle start and 20% chance at every 20s thereafter, create a smokescreen that lasts 5s. Smokescreen provides 40% evasion
@@ -317,26 +317,26 @@ Good reading, and godspeed cap'n!
  
 ### Tier 1.5:
 ---
-![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - [USS Helena](https://azurlane.koumakan.jp/Helena) **(T0 vs bosses)**
+![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
 * Skill: 60% chance every 20s to make all enemies on the screen take 40% more damage for 10s
 
 * Desc: Helena is exceedingly good against bosses and merely alright everywhere else. 
 
 * While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
-![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - [USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)
+![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
 * Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%.
 
 * Desc: A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
  
-![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - [HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)
+![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
 * Skill: 
   * 60% chance every 20s to boost Firepower by 40% for 10s
   * Increases damage dealt to CAs by 25%
 
 *  Desc: Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff. Powerful and rather inexpensive, but beware the severely subpar HP.
 
-![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - [HMS Belfast](https://azurlane.koumakan.jp/Belfast)
+![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 
 *  Skill: 
   * Increase HE damage by 25% and chance to ignite fire by 3% 
@@ -346,7 +346,7 @@ Good reading, and godspeed cap'n!
 
 * Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
 
-![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - [IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)
+![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
   * 15% boost of torpedo stat to every DD in the fleet
   * 30% chance to launch a second salvo on torpedo launch
@@ -357,13 +357,13 @@ Good reading, and godspeed cap'n!
 ### Tier 2:
 ---
 
-![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - [USS Honolulu](https://azurlane.koumakan.jp/Honolulu)
+![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
 
 * Skill: 60% activation every 20s, increases own FP by 40% for 8s.
 
 * More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull. A solid pick regardless, especially if you expect aircraft
 
-![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - [HMS Aurora](https://azurlane.koumakan.jp/Aurora)
+![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 
 * Skill: 
   * Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
@@ -371,13 +371,13 @@ Good reading, and godspeed cap'n!
 
 *  Desc: Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP. More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 
-![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - [KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)
+![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
 
 * Skill: Increases Firepower, Torpedo, and Reload of Cruisers (both CL and CA) in the fleet by 10%
 
 * Desc: Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
-![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - [SN Avrora](https://azurlane.koumakan.jp/Avrora)
+![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
 
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
 
@@ -406,7 +406,7 @@ _N/A_
 
 * Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
  
-![CL](https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png "USS San Diego") - [USS San Diego](https://azurlane.koumakan.jp/San_Diego)
+![CL](https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png "USS San Diego") - **[USS San Diego](https://azurlane.koumakan.jp/San_Diego)**
 - You'll see WAY more of her than you ever want
 - Desc: "The undisputed, unwanted AA queen".
 
@@ -424,7 +424,7 @@ _N/A_
 ### Tier 0:
 ---
  
-![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - [USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)
+![CA](https://azurlane.koumakan.jp/w/images/7/74/MinneapolisChibi.png "USS Minneapolis") - **[USS Minneapolis](https://azurlane.koumakan.jp/Minneapolis)**
 - Desc: "Monster Hunter".
 
 * Skill:
@@ -437,7 +437,7 @@ _N/A_
 ### Tier 0.5:
 ---
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - [USS Wichita](https://azurlane.koumakan.jp/Wichita)
+![CA](https://azurlane.koumakan.jp/w/images/7/7b/WichitaChibi.png "USS Wichita") - **[USS Wichita](https://azurlane.koumakan.jp/Wichita)**
 
 * Skill: 
   * Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
@@ -448,7 +448,7 @@ _N/A_
  ### Tier 1:
 ---
 
-![CA](https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png "USS Chicago") - [USS Chicago](https://azurlane.koumakan.jp/Chicago)
+![CA](https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png "USS Chicago") - **[USS Chicago](https://azurlane.koumakan.jp/Chicago)**
 
 * Skill: Main gun shots have a 30% chance to inflict double damage.
 
@@ -458,7 +458,7 @@ _N/A_
  
 ### Tier 1.5:
 ---
-![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - [USS Houston](https://azurlane.koumakan.jp/Houston)
+![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
 - Desc: "Problem? What problem?"
 
 * Skill: Main gun shots have a 20% chance to increase own Evasion by 100% for 15s.
@@ -467,7 +467,7 @@ _N/A_
 
 * What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
 
-![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - [USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)
+![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 
 * Skill: 
   * Every 30s, spawns 2 shields that blocks 8 shots
@@ -475,7 +475,7 @@ _N/A_
 
 * Desc: The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat. Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - [USS Portland](https://azurlane.koumakan.jp/Portland)
+![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - **[USS Portland](https://azurlane.koumakan.jp/Portland)**
 
 * Skill:
   * When together with Indianapolis, Increase Firepower, AA, and Reload by 15%
@@ -483,7 +483,7 @@ _N/A_
 
 *  Desc: A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
 
-![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - [HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk) **(T1 when deployed with Queen Elizabeth)**
+![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 
 * Skill: 
   * 25% chance when firing main guns to fire another salvo
@@ -491,14 +491,14 @@ _N/A_
 
 * Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
-![CA](https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png "IJN Takao") - [IJN Takao](https://azurlane.koumakan.jp/Takao)
+![CA](https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png "IJN Takao") - **[IJN Takao](https://azurlane.koumakan.jp/Takao)**
 * Skill:
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
 
 * Desc: Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - [IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka) [IJN Kako Kai](https://azurlane.koumakan.jp/Kako)
+![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
 
 * Skill: 
   * 60% activation every 20s, increases own FP by 40% for 10s
@@ -506,7 +506,7 @@ _N/A_
 
 * Desc: Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - [KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)
+![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)**
 - Desc: Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.
 
 * Skill: +35% damage against DD and CL.
@@ -519,26 +519,26 @@ _N/A_
 ### Tier 2:
 ---
 
-![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - [USS Northampton](https://azurlane.koumakan.jp/Northampton)
+![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
 
 * Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
 
 * Desc: What you use when you don't have Wichita but still want a powerful, buff-capable CA. She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - [HMS London](https://azurlane.koumakan.jp/London)
+![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - **[HMS London](https://azurlane.koumakan.jp/London)**
 
 * Skill: Increases Firepower of the entire frontline by 15%
 
 * Desc: HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills. London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
 
-![CA](https://azurlane.koumakan.jp/w/images/3/33/AtagoChibi.png "IJN Atago") - [IJN Atago](https://azurlane.koumakan.jp/Atago)
+![CA](https://azurlane.koumakan.jp/w/images/3/33/AtagoChibi.png "IJN Atago") - **[IJN Atago](https://azurlane.koumakan.jp/Atago)**
 * Skill: 
   * Increases HE Damage by 15%, HE burn chance by 12% and burn damage by 50%
   * 30% chance to launch a second salvo on torpedo launch
 
 * Desc: Atago is hot as hell in more ways than one. The most gun-focused of the Takao-class, she provides the most stable output and a considerable amount of it as well - though of course not as much as a Gun-CA would. Let the seas burn.
 
-![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - [IJN Maya](https://azurlane.koumakan.jp/Maya)
+![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
@@ -546,7 +546,7 @@ _N/A_
 
 * Also, she's slightly better at AA than her sisters (key word being "slightly", though).
 
-![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - [KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)
+![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - **[KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)**
 - Desc: "HAAH?!"
 
 * Skill: 
@@ -557,7 +557,7 @@ _N/A_
 
 
 ### Honourable Mentions
-![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - [KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)
+![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
 
 * Skill: 70% chance every 20s to spawn 3 shields that lasts 10s and blocks 10 shots
 
@@ -572,7 +572,7 @@ _N/A_
 ### Tier 0:
 ---
 
-![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - [IJN Amagi](https://azurlane.koumakan.jp/Amagi)
+![BC](https://azurlane.koumakan.jp/w/images/b/b4/AmagiChibi.png "IJN Amagi") - **[IJN Amagi](https://azurlane.koumakan.jp/Amagi)**
 - Desc: If you can't decide what to pick, pick it all.
 
 * Skill: 
@@ -582,7 +582,7 @@ _N/A_
 
 * Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
 
-![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - [KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz) **(T2 with BB/BC)**
+![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC)**
 - Desc: "Torpitz? Neetpitz? Derpitz?"
 
 *  Skill: 30% damage increase when Tirpitz is the only BB/BC in the fleet || Every 15s, launches 4 Magnetic Torpedoes
@@ -596,7 +596,7 @@ _N/A_
 ### Tier 0.5:
 ---
 
-![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - [HMS Hood](https://azurlane.koumakan.jp/Hood)
+![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
 - Desc: "More than just a sub". 
 
 *  Skill: 70% chance on firing main gun to fire a special barrage and increase main fleet reload by 40% for 8s
@@ -605,7 +605,7 @@ _N/A_
 
 * Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
-![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - [IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)
+![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
 
 * Skill: Increases Firepower by 20% || Increases main fleet Firepower by 15%
 
@@ -614,7 +614,7 @@ _N/A_
 ### Tier 1:
 ---
 
-![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - [USS Arizona](https://azurlane.koumakan.jp/Arizona)
+![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
 - Desc: WAIT DON'T lEAVE JUST YET. 
 
 * Skill: 50% chance on firing main gun to heal escort fleet for 10% HP.
@@ -623,7 +623,7 @@ _N/A_
 
 * Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
 
-![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - [USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)
+![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)**
 - Desc: Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.
 
 * Skill:
@@ -634,7 +634,7 @@ _N/A_
 
 * Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
-![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - [USS Washington](https://azurlane.koumakan.jp/Washington)
+![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)**
 - Desc: "Smile for the FCR!"
 
 * Skill: 
@@ -645,7 +645,7 @@ _N/A_
 
 * As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
-![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - [IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))
+![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 - Desc: A sidegrade to Washington.
 * Skill:
   * 50% chance on Main Gun fire to launch a special barrage (long range: tight 4-shot wave, tight 4-shot wave with 2 shots to the sides; short range: wide V-shaped spread of small bullets)
@@ -655,7 +655,7 @@ _N/A_
 
 * She also has a few torps to throw out every now and then, but they're fairly lacklustre.
 
-![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - [IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro) [IJN Fusou](https://azurlane.koumakan.jp/Fusou) (Kai)
+![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
 
 * Skill: Increases Firepower by 20% || (Launches more seaplanes on first airstrike)
 
@@ -667,7 +667,7 @@ _N/A_
  
 ### Tier 1.5:
 ---
-![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - [USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)
+![BB](https://azurlane.koumakan.jp/w/images/8/80/South_DakotaChibi.png "USS South Dakota") - **[USS South Dakota](https://azurlane.koumakan.jp/South_Dakota)**
 
 *  Skill: 
   * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
@@ -675,19 +675,19 @@ _N/A_
 
 * Desc: While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
 
-![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- [HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth) **(T0 in any HMS fleet)**
+![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T0 in any HMS fleet)**
 
 * Skill: Increases Firepower, Torpedo, Air Power, AA, Reload, and Evasion of HMS ships by 15%
 
 * Desc: The core of most HMS fleets. If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
  
-![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - [IJN Ise](https://azurlane.koumakan.jp/Ise)
+![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
 
 * Skill: Increase own FP by 20%.
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
-![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - [KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau) **(T1 if deployed with Graf Zeppelin)**
+![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1 if deployed with Graf Zeppelin)**
 
 * Skill: Increases Firepower by 25% || Every 20s launches 3 unguided torpedoes
 
@@ -695,7 +695,7 @@ _N/A_
 
 * A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
-![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - [KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst) **(T1 if deployed with Graf Zeppelin)**
+![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Graf Zeppelin)**
 
 * Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
 
@@ -706,13 +706,13 @@ _N/A_
 ### Tier 2:
 ---
 
-![BB](https://azurlane.koumakan.jp/w/images/5/59/CaliforniaChibi.png "USS California") - [USS California](https://azurlane.koumakan.jp/California)
+![BB](https://azurlane.koumakan.jp/w/images/5/59/CaliforniaChibi.png "USS California") - **[USS California](https://azurlane.koumakan.jp/California)**
 
 * Skill: 30% chance to proc on main gun fire, x2 damage on the entire volley
 
 * Desc: By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost. Still hits damn hard, though, and harder still when she's on a good roll.
 
-![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - [USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)
+![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
 
 * Skill: 60% chance to proc every 20 seconds, fires a special barrage (multiple arcing salvo shelling a medium-sized area in the middle of the screen).
 
@@ -720,13 +720,13 @@ _N/A_
 
 * A bit fiddly, but arguably more flexible than most and just as powerful.
 
-![BB](https://azurlane.koumakan.jp/w/images/d/d4/Prince_of_WalesChibi.png "HMS Prince of Wales") - [HMS Prince of Wales](https://azurlane.koumakan.jp/Prince_of_Wales) **(T1.5 if deployed w/ USS fleet)**
+![BB](https://azurlane.koumakan.jp/w/images/d/d4/Prince_of_WalesChibi.png "HMS Prince of Wales") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Prince_of_Wales)** **(T1.5 if deployed w/ USS fleet)**
 
 * Skill: For every USS ship in the fleet, increase her own Firepower, AA, Reload, and Evasion by 5%
 
 * Desc: Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
 
-![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - [HMS Warspite](https://azurlane.koumakan.jp/Warspite) **(T1.5 if deployed w/ Queen Elizabeth)**
+![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite) ** **(T1.5 if deployed w/ Queen Elizabeth)**
 - Desc: "The Queen's Royal Corgi".
 
 * Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
@@ -735,7 +735,7 @@ _N/A_
 
 * [Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
  
-![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - [HMS Renown](https://azurlane.koumakan.jp/Renown) **(T1.5 if deployed w/ Queen Elizabeth)**
+![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
 
 * Skill: Every time the main gun is fired, increases the damage of the subsequent main gun attack by 15%. 
 
@@ -793,7 +793,7 @@ _N/A_
  ### Tier 0.5:
  ---
  
-![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - [IJN Akagi](https://azurlane.koumakan.jp/Akagi) [IJN Kaga](https://azurlane.koumakan.jp/Kaga) **(T0 when together)**
+![CV](https://azurlane.koumakan.jp/w/images/6/64/AkagiChibi.png "IJN Akagi") ![CV](https://azurlane.koumakan.jp/w/images/d/dc/KagaChibi.png "IJN Kaga") - **[IJN Akagi](https://azurlane.koumakan.jp/Akagi)** **[IJN Kaga](https://azurlane.koumakan.jp/Kaga)** **(T0 when together)**
 - Desc: "The Foxes launched first."
 
 * Skill: First Airstrike launches 50% faster || When paired, increase Air Power by 35%
@@ -804,7 +804,7 @@ _N/A_
 
 * As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
 
-![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - [IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)
+![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
 
 * Skill: 
   * On launching an airstrike, heals the escort fleet for 8% HP
@@ -817,7 +817,7 @@ _N/A_
 ### Tier 1:
 ---
 
-![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - [USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)
+![CVL](https://azurlane.koumakan.jp/w/images/e/e0/RangerKaiChibi.png "USS Ranger Kai") - **[USS Ranger Kai](https://azurlane.koumakan.jp/Ranger)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * 25% chance of inflicting double damage with airstrike
@@ -828,7 +828,7 @@ _N/A_
 
 * Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
 
-![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - [USS Yorktown](https://azurlane.koumakan.jp/Yorktown)
+![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 - Desc: "Putting the 'fleet' in 'fleet carrier'".
 
 * Skill: 
@@ -839,7 +839,7 @@ _N/A_
 
 * One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
 
-![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - [HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)
+![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
 * Skill: 
   * On launching an airstrike, heals the escort fleet for 8% HP
   * Increases Reload of escort fleet by 15%
@@ -848,7 +848,7 @@ _N/A_
 
 * Desc: Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
 
-![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - [IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku) **(Tier 0 if deployed with Zuikaku)**
+![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(Tier 0 if deployed with Zuikaku)**
 
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
@@ -862,7 +862,7 @@ _N/A_
 ### Tier 1.5:
 ---
 
-![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - [USS Lexington](https://azurlane.koumakan.jp/Lexington) [USS Saratoga](https://azurlane.koumakan.jp/Saratoga)
+![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - **[USS Lexington](https://azurlane.koumakan.jp/Lexington)** **[USS Saratoga](https://azurlane.koumakan.jp/Saratoga)**
 
 * Skill: Every 10s, fires a 3x2-bullet HE salvo; on launching an airstrike, increases escort fleet Damage by 15% for 8s
 
@@ -870,7 +870,7 @@ _N/A_
 
 * Desc: These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo. They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
-![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - [HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)
+![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 
 * Skill: 
   * Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s
@@ -880,7 +880,7 @@ _N/A_
 
 * Desc: A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
 
-![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - [IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu) **(Tier 1 if deployed with Souryuu)**
+![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(Tier 1 if deployed with Souryuu)**
 
 * Skill: 
   * Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
@@ -890,7 +890,7 @@ _N/A_
 
 * Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
 
-![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - [IJN Souryuu](https://azurlane.koumakan.jp/Souryuu) **(Tier 1 if deployed with Hiryuu)**
+![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - **[IJN Souryuu](https://azurlane.koumakan.jp/Souryuu)** **(Tier 1 if deployed with Hiryuu)**
 
 * Skill: 
   * On launching an airstrike, increases escort fleet Damage by 15% for 8s
@@ -900,7 +900,7 @@ _N/A_
 
 * Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
-![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - [KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin) **(Tier 0 if deployed in a KMS fleet)**
+![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(Tier 0 if deployed in a KMS fleet)**
 
 * Skill: 
   * 30% increase in efficiency for equipped German planes
@@ -916,7 +916,7 @@ _N/A_
 ### Tier 2:
 ---
 
-![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - [USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)
+![CVL](https://azurlane.koumakan.jp/w/images/1/16/BogueKaiChibi.png "USS Bogue Kai") - **[USS Bogue Kai](https://azurlane.koumakan.jp/Bogue)**
 * Skill: 
   * 15% activation when launching an airstrike, the next airstrike becomes available immediately
   * Increases AA for backline by 15%, does not stack with other command skills that have similar effect.
@@ -927,7 +927,7 @@ _N/A_
 
 * Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
  
-![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - [BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)
+![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
   * 60% chance to drop 12 additional bombs with her airstrike upon launch;\
   * 25% chance to inflict double damage with her airstrike.
@@ -938,7 +938,7 @@ _N/A_
 
 * Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
-![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - [HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)
+![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
 
 * Skill: On launching an airstrike, provides a shield to the escort fleet for 8s. Shield HP is 10% of Illustrious's HP
 
@@ -946,7 +946,7 @@ _N/A_
 
 * Desc: A very defensive-focused CV with double fighter slots and a shield generator. Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (like Eldridge's).
 
-![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- [IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku) **(Tier 0 if deployed with Shoukaku)**
+![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(Tier 0 if deployed with Shoukaku)**
 
 * Skill: 
   * Increases next airstrike damage by 20% on launching airstrike, stacks up to 3 times
@@ -968,7 +968,7 @@ _N/A_
 
 * Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
 
-![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
+#### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 - Desc: "SMOL WASP YO"
 
 * Skill: When there is a Royal Navy ship in the Main Fleet, every time Wasp launches an airstrike, there is a 30% (50%) chance of launching another round of airstrike with Spitfires. 
