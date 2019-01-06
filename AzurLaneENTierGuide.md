@@ -858,7 +858,26 @@ _N/A_
 
 * Desc: More support-based than her sister. Frailer than her sibling when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff). Her buffs are good enough to warrant usage even solo.
  
- 
+![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(Tier 0.5 if deployed with Souryuu)**
+
+* Skill: 
+  * Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
+  * When paired with Soryu, increases Air Power by 35%
+
+* Loadout: 3/2/3
+
+* Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
+
+![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - **[IJN Souryuu](https://azurlane.koumakan.jp/Souryuu)** **(Tier 0.5 if deployed with Hiryuu)**
+
+* Skill: 
+  * On launching an airstrike, increases escort fleet Damage by 15% for 8s
+  * When paired, increases Air Power by 35%
+  
+* Loadout: 3/3/2
+
+* Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
+
 ### Tier 1.5:
 ---
 
@@ -879,26 +898,6 @@ _N/A_
 * Loadout: 0/2/6
 
 * Desc: A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
-
-![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(Tier 1 if deployed with Souryuu)**
-
-* Skill: 
-  * Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
-  * When paired with Soryu, increases Air Power by 35%
-
-* Loadout: 3/2/3
-
-* Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
-
-![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - **[IJN Souryuu](https://azurlane.koumakan.jp/Souryuu)** **(Tier 1 if deployed with Hiryuu)**
-
-* Skill: 
-  * On launching an airstrike, increases escort fleet Damage by 15% for 8s
-  * When paired, increases Air Power by 35%
-  
-* Loadout: 3/3/2
-
-* Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(Tier 0 if deployed in a KMS fleet)**
 
