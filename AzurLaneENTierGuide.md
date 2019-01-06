@@ -56,8 +56,9 @@ Good reading, and godspeed cap'n!
   * Every 20 seconds, has a 70% chance to active Vanquish Mode, increasing own Reload stat by 200% for 10 seconds and releasing a powerful barrage.**
   
 - Desc: "Vorpal Bunny".
+>While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant.  
+The DPS monster to AyaKai's DPH.
 
-* While pretty good to begin with, once Kai'd Laffey truly stands out thanks to CL-tier Firepower and Efficiency coupled with absurd amounts of Reload, allowing her to akimbo gun down any fool standing in her way. Her torpedoes also come out much quicker than anyone else's, but given the lacking nature of US torps spamming them is one of the few ways to keep them relevant. The DPS monster to AyaKai's DPH.**
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - **[KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)**
 * Skill:
@@ -67,10 +68,8 @@ Good reading, and godspeed cap'n!
 * Special: Can equip CL guns.
 
 - Desc: "Gun Fuhrer".
-
-* Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.
-
-* Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.**
+>Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
+Torps are even more of an afterthought than they are on Laffey, however, and unlike Laffey she can't make up for it by simply spamming them; she will punch ship-sized holes in Light and Medium Armour, but she'll find herself a little stumped against Heavy.
 
 ![DD](https://azurlane.koumakan.jp/w/images/2/2b/Z46Chibi.png "Z46") - **[KMS Z46](https://azurlane.koumakan.jp/Z46)**
 * Skill:
@@ -78,10 +77,8 @@ Good reading, and godspeed cap'n!
   * Increases AP damage by 25%
   
 - Desc: "KMSan Diego".
-
-* Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.
-
-* That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
+>Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.  
+That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
 
 ### Tier 0.5:
 ---
@@ -91,22 +88,23 @@ Good reading, and godspeed cap'n!
   * 70% chance every 20s to fire a special barrage and boost Evasion stat by 30% for 5s
 
 - Desc: "Nuclear Launch Detected".
-
-* Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.
-
-* On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
+>Ayanami is the last word in Torp Damage - with her skill procced, the damage she can inflict with them is completely unrivaled and, with enough buff stacking, can even exceed the tens of thousands.  
+On the flip side, Torpedoes are all she's got and once she's blown her load, she won't have much to do except waiting for them to come back online. The DPH monster to LafKai's DPS.
 
 ![DD](https://azurlane.koumakan.jp/w/images/c/c3/YuudachiChibi.png "Yuudachi") - **[Poi (IJN Yuudachi)](https://azurlane.koumakan.jp/Yuudachi)**
 * Skill: 6% chance on firing main gun to boost Firepower, Torpedo, RoF, and Evasion by 40% for 8s
 
-* Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
+* Desc: 
+>Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline.  
+The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
 * Skill:
   * 15% boost of torpedo stat to the frontline
   * 30% chance to launch a second salvo on torpedo launch
 
-* Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
+* Desc: 
+>A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
 
 ### Tier 1: 
 ---
@@ -116,10 +114,8 @@ Good reading, and godspeed cap'n!
   * 60% chance to activate every 20 seconds, increase own Reload by 40% for 10 seconds
 
 - Desc: "The bubblewrap fights back!"
-
-* Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.
-
-* As it is for Phoenix, they are best used in mobbing fleets.
+>Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.  
+As it is for Phoenix, they are best used in mobbing fleets.
  
 ### Tier 1.5:
 ---
@@ -128,30 +124,33 @@ Good reading, and godspeed cap'n!
   * 5% chance on firing main gun to boost Evasion by 60% for 8s
   * 70% chance every 20s to fire a special barrage and boost torpedo stat by 30% for 5s
 
-* Desc: While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
+* Desc: 
+>While her starter version is pretty much undeniably the worst out of the three, the Kai does her some justice. Still nowhere as powerful as Ayanami or Laffey, but the EX barrage helps to close the gap while her Evasion is and remains the absolute best in the game.
 
 ![DD](https://azurlane.koumakan.jp/w/images/6/6b/FubukiChibi.png "IJN Fubuki") - **[Bucky (IJN Fubuki)](https://azurlane.koumakan.jp/Fubuki)**
 * Skill: In battle, increases evasion by 30% and torpedo stat by 10% of all Tokugata (herself, Ayanami, Akatsuki, Ikazuchi, Inazuma) destroyers in same fleet.
 
-* Desc: The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
+* Desc: 
+>The best buddy Ayanami will ever have, and she's damn good on her own too owing to her very high Evasion and Torpedo stat.
 
 ![DD](https://azurlane.koumakan.jp/w/images/e/eb/TanikazeKaiChibi.png "IJN Tanikaze Kai") - **[IJN Tanikaze Kai](https://azurlane.koumakan.jp/Tanikaze#Retrofit)**
 * Skill:
   * When only escort ship alive, increase own evasion by 10% and reduce damage taken from airstrike to self by 50%
   * When her torpedo hits an enemy, 17% chance to make said enemy take 40% more damage from all torpedoes for 8s.
 
-* Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
-
-* Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
+* Desc:
+>Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.  
+Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
 
 ![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - **[KMS Z25](https://azurlane.koumakan.jp/Z25)**
 * Skill:
   * 60% activation every 20s, increases own FP by 40% for 10s
   * Reduces the damage taken by the Flagship by 25%; can equip CL guns.
+  * Can equip CL guns (but shouldn't).
 
-* Special: Can equip CL guns.
-
-* Desc: Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn. That said, if you have no need for such a skill you should probably look for another ship.
+* Desc: 
+>Best of the three ships with the Flagship Protection skill, not only does she have powerful guns and high HP for her class but she also synergises beautifully with her intended protégé, Graf Zeppelin - who can protect her in turn.  
+That said, if you have no need for such a skill you should probably look for another ship.
 
 ![DD](https://azurlane.koumakan.jp/w/images/4/4b/Z35Chibi.png "Z35") - **[KMS Z35](https://azurlane.koumakan.jp/Z35)**
 * Skill:
@@ -159,8 +158,8 @@ Good reading, and godspeed cap'n!
   * Upon expiration, decrease reload by 100% for 3s.
 
 - Desc: "Vorpal Häschen"
-
-* Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds). Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
+>Z35 takes a page from Laffey's book and kicks her guns into overdrive, putting them to similar effect (and wrekcing them in the process for a few seconds).  
+Very similar in behaviour to her USS counterpart, but whereas she can run a one-bunny show thanks to her Kai statline and skills, Z35 needs Z1's presence to really compare; and while she won't be matching her anytime soon, she'll still be giving many other DDs a run for their money.
 
 
 ### Tier 2:
@@ -170,7 +169,9 @@ Good reading, and godspeed cap'n!
   * 4% activation upon firing, increases Fleet movement speed, and Escort evasion by 40% for 8s
   * 60% activation every 20s, increases own FP by 40% for 10s.
 
-* Desc: Another slippery little bastard, obsessed with justice and GOING FAST. Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
+* Desc: 
+>Another slippery little bastard, obsessed with justice and GOING FAST.  
+Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/EldridgeChibi.png "USS Eldridge")- **[USS Eldridge](https://azurlane.koumakan.jp/Eldridge)**
 * Skill: Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
