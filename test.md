@@ -1014,7 +1014,7 @@ Loadout: 3/3/2
 
 > Desc: Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.
 
->> Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
+> Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
  
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - [BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)
 > Skill: 
