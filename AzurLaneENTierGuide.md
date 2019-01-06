@@ -76,8 +76,8 @@ Torps are even more of an afterthought than they are on Laffey, however, and unl
   * Increases AP damage by 25%
   
 * Desc: "KMSan Diego".
->Admittedly not quite as good as an AA boat, but fulfils a similar purpose while being much more competetent at everything else - survivability, damage output, barrage, even ASW.  
-That said, the fact one of her skills is completely useless whenever planes aren't around does hamper her usability somewhat, but she remains a very solid DD regardless.
+>The last word in terms of DD AA and well capable of going toe-to-toe with most CL on their own field of expertise, while being vastly superior in terms of damage output, survivability, ASW prowess and - most importantly - barrage quality.  
+Proud owner of a quick-firing, high-volume, AP conal barrage with four homing torpedoes to the side that is boosted both by her own +APdmg skill (do not take AP DD guns unless you hate her) and her high torp stat, she puts every other standard DD barrage in the game to shame and is the main reason for her astounding effectiveness; the AA proficiency is a nice cherry on top, but not her main draw.
 
 ### Tier 0.5:
 ---
@@ -175,7 +175,8 @@ Very similar in behaviour to her USS counterpart, but whereas she can run a one-
 Her torps are fairly worthless, but her guns are decent and her skill is absolutely amazing - not only does she increase your whole frontline's survivability, she also fixes whatever movement issues you might have at hand. The best DD friend your CAs could ever have.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/8b/EldridgeChibi.png "USS Eldridge")- **[USS Eldridge](https://azurlane.koumakan.jp/Eldridge)**
-* Skill: Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
+* Skill:
+  * Upon taking damage, 15% chance to make entire escort fleet to evade all attacks for 10s. DoT and Ramming damage still apply. CAN'T PROC BEFORE 20s HAVE PASSED (skill starts on cooldown).
 
 * Desc: 
 >Slippery little bastard, despite her CA-like movement speed. Her offensive stats are somewhat lacklustre, but she makes up for it with her skill - it might be RNG and her high Evasion works against it, but 10s of invulnerability is nothing to scoff at. Make sure to have her eat weak shots to minimise exposure to dange.
@@ -216,7 +217,8 @@ Make sure to bring a Fletcher along to capitalise on her strenghts.
 Her torp game is still legit, if nothing else, and she'll be a decent placeholder for the superior and cheaper Kuroshio/Oyashio, whenever they'll come.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- **[IJN Shigure](https://azurlane.koumakan.jp/Shigure)**
-* Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s
+* Skill: 
+  * 5% chance on firing main gun to boost Evasion by 60% for 8s
 
 * Desc: 
 >Think Javelin before her Kai, except not terrible. Excellent stats, good skill, pretty good to use overall.
@@ -231,7 +233,8 @@ Her torp game is still legit, if nothing else, and she'll be a decent placeholde
 Despite her low FP and an AA skill actively hampering it, her MGM+1 and good Efficiency let her deal constant, solid damage regardless; she's no KMS or USS Gun-DD, but she puts up a good showing and still retains serviceable torps, as well as an unreliable but decent fleetwide buff.
 
 ![DD](https://azurlane.koumakan.jp/w/images/7/7c/Z1Chibi.png "KMS Z1") - **[KMS Z1](https://azurlane.koumakan.jp/Z1)** **Tier 1.5 if running full Z-series setup**
-* Skill: Increases Firepower and Evasion of Z-series ships by 40%
+* Skill:
+  * +40% FP and Eva to all KMS DD.
 
 * Desc: 
 >Z1's main use is for running the Z-class destroyer trio, where she provides a MASSIVE boost to her sisters. She herself is a pretty normal torpedo-focused DD statwise.
@@ -252,20 +255,23 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
  
 ### Honorable Mention:
 #### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) & [USS Downes](https://azurlane.koumakan.jp/Downes)
-* Skill: When HP falls under 20%, heals 25% of max HP once per battle
+* Skill:
+  * Once per fight, restore 25% max HP upon falling under 20% HP.
 
 * Desc: "Cheap and inexpensive bubblewrap".
 >While their Kai does augment their DPS somewhat, it's fair to say that the star of the show is still their self-rescue skill and their pretty good base HP; therefore, if all you want are some ablative wounds for a more valuable unit or just something to stall with while the backline does all the work, there are no better options than a 0LB Cassin and Downes.
 
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/d/dc/AmazonChibi.png "HMS Amazon") [HMS Amazon](https://azurlane.koumakan.jp/Amazon)
-* Skill: Increases experience gained by DDs by +18%.
+* Skill:
+  * +18% Exp gain for DDs.
 
 * Desc: 
 >The first real DD to hit the seas, and boy does it show. Her barely combat-worthy statline and lack of any skill beyond the XP boost makes her a very poor candiate for Limit Breaks, and a very good candidate for 0LB shenanigans.
 
 #### ![DD](https://azurlane.koumakan.jp/w/images/f/f3/ShiranuiChibi.png "IJN Shiranui") [IJN Shiranui](https://azurlane.koumakan.jp/Shiranui)
-* Skill: 30% chance to launch a second salvo on torpedo launch
+* Skill:
+  * 30% chance upon launching a torpedo spread to launch a second one.
 
 * Desc: 
 >One of the top DD choices for a 0LB min-cost farm fleet due to her high torpedo stat, low fuel usage, and chain torpedo skill.
@@ -284,10 +290,8 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
   * +20% Reload and Torpedo to all DD/CL in Fleet
   
 - Desc: "The fox says 'torp'."
-
-* As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.
-
-* With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
+>As far as torpedoes are concerned, this is what peak efficiency looks like. Sporting three different superb torpedo buffs for whoever has any business mounting them and stellar torpedo stats+efficiency, she's a powerhouse in her own right with access to a handy damage cut (which she needs, considering her abysmal HP pool) and an uncharacteristically good barrage.  
+With no real weakness to speak of, her one significant flaw is not being able to bolster CA torpedoes - you'll want to look elsewhere for that.
  
 
 ### Tier 1:
@@ -299,33 +303,33 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
 - Desc: "The Original Dadster". 
-
-* Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland. Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.
-
-* All in all, strong and dependable, just like her.
+>Units for whom the excellence of their statline outweighs a poor selection of skills are rare and far between, but there's few better examples than this than Cleveland.  
+Sporting an impressive 3.8k HP, high Reload, slightly higher than usual Evasion and good guns, Cleve doesn't need skills to make her presence felt on the battlefield and excels as a tank; that said, while her AA skill is more of a detriment than a boon, her fleetwide boost is unreliable but potentially great.  
+All in all, strong and dependable, just like her.
 
 ![CL](https://azurlane.koumakan.jp/w/images/f/fc/PhoenixChibi.png "USS Phoenix") - **[USS Phoenix](https://azurlane.koumakan.jp/Phoenix)**
-* Skill: Once per battle, when HP falls under 20%, heals 25% HP and increases firepower by 30% for 15s.
+* Skill:
+  * Once per fight and upon falling below 20% HP, restore 25% HP and +30% FP for 15s.
 
-* Desc: Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
+* Desc: 
+>Sturdy, cost-effective and perfectly capable of carrying a fleet through multiple battles with no healing support, Phoenix is a supremely reliable workhorse for any fleet; whether it's farming or a cheeky way to skimp on healers to ramp up the backline damage, she'll get it done.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/71/St._LouisChibi.png "USS St. Louis") - **[USS St. Louis](https://azurlane.koumakan.jp/St._Louis)**
 * Skill: 
   * 60% chance every 20s to boost her own Firepower, Reload, and Evasion by 30% for 10s
   * 25% chance on firing AA guns to boost AA by 40% and reduce Firepower by 20% for 3s
 
-- Desc: "It's not luck, it's all skill".
-
-* Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
+* Desc: "It's not luck, it's all skill".
+>Lewdis' rather impressive statline goes exceedingly well with a solid set of self-buffs to all relevant stats for a Gun-CL like herself, letting her withstand amounts of punishment that would fell a lesser CL or fire harder and faster than much of her competition.
 
 ![CL](https://azurlane.koumakan.jp/w/images/d/d8/EdinburghChibi.png "HMS Edinburgh") - **[HMS Edinburgh](https://azurlane.koumakan.jp/Edinburgh)**
-* Skill: Increase own AP damage by 25%.
+* Skill:
+  * +25% AP dmg.
 
 - Desc: "Worth her weight in gold."
-
-* Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done. The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.
-
-* Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
+>Edinburgh is in a similar situation as Cleveland: both have merely 'okay' skills, both have impressive statlines, both will stay in front and tank for days while the rest of the team gets the job done.  
+The difference lies in how 'safe' they play things, as Edinburgh gets a passive boost to AP damage inflicted, an even bulkier HP pool (4.1k is amazing for both varieties of Cruiser) and no AA skill to burn her FP, but doesn't get that lone shot at the fleetwide buff and may find herself short-changed when planes ARE an issue.  
+Still, there's very few finer, more reliable frontline tanks than she - and that's a definite plus.
 
 ![CL](https://azurlane.koumakan.jp/w/images/3/31/LeanderKaiChibi.png "HMS Leander Kai") - **[HMS Leander Kai](https://azurlane.koumakan.jp/Leander)**
 * Skill: 
@@ -338,78 +342,92 @@ Unusually for these sorts of teams, its members' statlines differ slightly: Cres
 ### Tier 1.5:
 ---
 ![CL](https://azurlane.koumakan.jp/w/images/8/86/HelenaChibi.png "USS Helena") - **[USS Helena](https://azurlane.koumakan.jp/Helena)** **(T0 vs bosses)**
-* Skill: 60% chance every 20s to make all enemies on the screen take 40% more damage for 10s
+* Skill:
+  * 20s 60% chance to inflict a -40% damage resistance debuff on all enemies currently on the screen.
 
-* Desc: Helena is exceedingly good against bosses and merely alright everywhere else. 
-
-* While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
+* Desc: 
+>Helena is exceedingly good against bosses and merely alright everywhere else.  
+While the power of her debuff is unparalled, it's hard to make sure she will proc when you need her to - either because the enemy has died already or there's no worthy targets on the screen, as tends to happen on mob nodes, or because it just won't proc due to bad luck; only boss fights tend to drag on for long enough to guarantee her debuff will proc and get some use.
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/43/BrooklynChibi.png "USS Brooklyn") - **[USS Brooklyn](https://azurlane.koumakan.jp/Brooklyn)**
-* Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%.
+* Skill:
+  * +15% FP to all Cruisers.
 
-* Desc: A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
+* Desc: 
+>A full-gun alternative to Leander, somewhat sturdier than she is and in possession of a better barrage. Solid and a vital step on the road to Wichita.
  
 ![CL](https://azurlane.koumakan.jp/w/images/3/3b/AjaxKaiChibi.png "HMS Ajax Kai") - **[HMS Ajax Kai](https://azurlane.koumakan.jp/Ajax)**
 * Skill: 
   * 60% chance every 20s to boost Firepower by 40% for 10s
   * Increases damage dealt to CAs by 25%
 
-*  Desc: Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff. Powerful and rather inexpensive, but beware the severely subpar HP.
+*  Desc: 
+>Ajax goes all in on the offensive, sporting a stellar FP/Torp stat bolstered by high efficiencies and a decent skillset - despite the questionable usefulness of the anti-CA buff.  
+Powerful for her class and rather inexpensive, but beware the severely subpar HP.
 
 ![CL](https://azurlane.koumakan.jp/w/images/8/84/BelfastChibi.png "HMS Belfast") - **[HMS Belfast](https://azurlane.koumakan.jp/Belfast)**
 * Skill: 
   * Increase HE damage by 25% and chance to ignite fire by 3% 
   * 10s after battle starts and 20% chance at every 20s thereafter, create a smokescreen that lasts 10s. Smokescreen provides 35% evasion and 35% reduced damage taken from airstrikes
 
-* Desc: Hot maid, in more ways than one. Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.
-
-* Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
+* Desc: Hot maid, in more ways than one.
+>Dealing more damage than usual with HE guns and packing better torps than every other HMS cruiser, she tends to have a good answer for most Light and Heavy Armour shaped issues - but not a great one on either side, and her smokescreen is almost entirely useless in PvE with its terrible procrate and planes not attacking you.  
+Her place is strictly PvP, as there's many other HMS CL who will do what she does - be it DPS or tanking - better for less.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/7a/AbukumaKaiChibi.png "IJN Abukuma Kai") - **[IJN Abukuma Kai](https://azurlane.koumakan.jp/Abukuma)**
 * Skill: 
   * 15% boost of torpedo stat to every DD in the fleet
   * 30% chance to launch a second salvo on torpedo launch
 
-* Desc: Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice. Not too flashy, but sturdy enough and dependable.
+* Desc: 
+>Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice.  
+Not too flashy, but sturdy enough and dependable.
 
 ![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - [IJN Naka](https://azurlane.koumakan.jp/Naka)
-* Skill: +15% Torp and Reload to all DD/CL.
+* Skill: 
+  * +15% Torp and Reload to all DD/CL in the fleet.
 
-* Desc: As frail as she's a good torp booster for your typical IJN vanguard, and a placeholder for the yet-to-come Sendai.
-* Not particularly remarkable, beyond her rather stellar barrage and shockingly low HP pool, but definitely effective.
+* Desc: 
+>As frail as she's a good torp booster for your typical IJN vanguard, and a placeholder for the yet-to-come Sendai.  
+Not particularly remarkable, beyond her rather stellar barrage and shockingly low HP pool, but definitely effective.
 
 ### Tier 2:
 ---
 
 ![CL](https://azurlane.koumakan.jp/w/images/d/dc/HonoluluChibi.png "USS Honolulu") - **[USS Honolulu](https://azurlane.koumakan.jp/Honolulu)**
-* Skill: 60% activation every 20s, increases own FP by 40% for 8s.
+* Skill: 
+  * 20s 60% chance for +40% FP for 8s.
 
-* More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull. A solid pick regardless, especially if you expect aircraft
+*  Desc: 
+>More Firepower and better Efficiency than what Denver gets and doesn't need to worry about planes mugging her precious FP, but at the cost of a much flimsier hull.  
+A solid pick regardless, especially if you expect aircraft
 
 ![CL](https://azurlane.koumakan.jp/w/images/4/44/AuroraChibi.png "HMS Aurora") - **[HMS Aurora](https://azurlane.koumakan.jp/Aurora)**
 * Skill: 
   * Increases own damage against destroyers, transport vessels, torpedo boats, and suicide boats by 20% 
   * Decreases the evasion rate of all enemy destroyers and light cruisers by 20%.
 
-*  Desc: Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP. More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
+*  Desc: 
+>Excellent but niche DD/CL-busting skills paired with average CL stats, with the glaring exception of her sub-par HP.  
+More suited for PvP than PvE, especially against HMS frontlines. Oh the irony.
 
 ![CL](https://azurlane.koumakan.jp/w/images/1/11/LeipzigChibi.png "KMS Leipzig") - **[KMS Leipzig](https://azurlane.koumakan.jp/Leipzig)**
-* Skill: Increases Firepower, Torpedo, and Reload of Cruisers (both CL and CA) in the fleet by 10%
+* Skill: 
+  * 10% FP/Eva/Reload to all CL/CA in the fleet.
 
-* Desc: Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
+* Desc: 
+>Leipzig is a solid buff-provider, but is put down by her own somewhat lacking stats. Best used in an all-KMS lineup for maximum impact, as well as Torp-CA fronts, but she has a place in any frontline.
 
 ![CL](https://azurlane.koumakan.jp/w/images/5/5c/AvroraChibi.png "SN Avrora") - **[SN Avrora](https://azurlane.koumakan.jp/Avrora)**
-* Skill: increase Damage inflicted by the frontline by 35%.
+* Skill: 
+  * +35% Damage to the entire vanguard.
+  * Has MGM+1 and Torpedoes.
 
 - Desc: "Союз нерушимый республик свободных~ ♪♫♬"
-
-* The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.
-
-* Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.
-
-* As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).
-
-* All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and an amazing force multiplier, having her around won't cut into your DPS to the point of crippling your fleet and will help your other ships MvP.
+>The burden and glory of the true revolutionary is heavy indeed, and Avrora shows it through and through.  
+Her buff is the absolute best in the entire game, no exception allowed; she gets MGM+1 while keeping her torps, a rarity only six other ships have access to; and her Armour is Medium, letting her outlast a good number of her competitors.  
+As amazing as all this sounds, she is let down by one glaring flaw - her abysmal offensive statline, which even her impressive buff struggles to shore up, compounded with pre-WW1-era engines that grant her the questionable honour of being the slowest ship in the game (tied with Yat Sen).  
+All that said, unlike Yat Sen she is certainly usable; okay-ish on her own and an amazing force multiplier, having her around won't cut into your DPS to the point of crippling your fleet and will help your other ships MvP.
 
  
 ### Pro Team Players:
@@ -417,26 +435,21 @@ _N/A_
  
 ### Honorable Mention:
 #### ![CL](https://azurlane.koumakan.jp/w/images/6/66/JuneauChibi.png "USS Juneau") [USS Juneau](https://azurlane.koumakan.jp/Juneau)
-* Skill: When sunk, heals all other ships in fleet for 25% HP.
+* Skill: 
+  * Upon sinking, heals the entire fleet by 25%.
 
 - Desc: "SHE DIES FOR YOUR SINS"
-
-* Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.
-
-* Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
+>Cursed to die over and over again in PvP due to her ludicrously powerful healing skill, which can on its own change the course of a fight, this poor girl has little to no place in PvE as you do NOT want your units to die there in the first place and her offensive power is lacklustre at best.  
+Her one job is being immensely irritating/powerful in the arena, and dying for you. You monster.
  
 ![CL](https://azurlane.koumakan.jp/w/images/9/9f/San_DiegoChibi.png "USS San Diego") - **[USS San Diego](https://azurlane.koumakan.jp/San_Diego)**
-- You'll see WAY more of her than you ever want
-
-*  Skill: 15% activation chance when attacking with AA guns, increase fleet AA by 50% for 8s. 
+* Skill: 
+  * 15% chance upon firing AA guns, +50% AA to the entire fleet.
 
 - Desc: "The undisputed, unwanted AA queen".
-
-* San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.
-
-* The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.
-
-* Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
+>San Diego has had, for the longest time, a terrible reputation - hailed as the prime example of rarity not being an indication of quality, her reputation is somewhat deserved, considering her main claim to glory is tons of AA (to the detriment of the rest of her offensive stats) when AA is only really needed in W12, a steep Oil price tag and a tendency to appear in crafting whenever you don't want her to... but that's not all there is to it.  
+The usual claim is that San Diego can't do anything to surface enemies; if you were to use her as a normal CL this would be correct, as her FP is low and her Gun Efficiency is worse. However, her barrage can dish out surprising amounts of damage and she can mount DD guns, which means she can spam said powerful barrage; moreover, while her Torpedo stat is abysmal, her Torpedo Efficiency is good enough, meaning she can benefit a lot from auxiliary torpedoes.  
+Does all this redeem her, then? Not really, even in this fashion, you'd need to manually control her and you'd need lots of high-end gear to get her to perform properly. If you're not expecting planes and you don't care about her, feel free to scrap her as you always did; if you do, then Sandy might just be what you need.
  
  
 ---
@@ -450,8 +463,7 @@ _N/A_
   * When Minneapolis' HP falls under 30%, lose 2 Speed but gain -10% damage sustained and heal 4% HP every 3s for 16s (can only proc once per fight).
 
 - Desc: "Monster Hunter".
-
-* Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP +Reload buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
+> Upgunned, uparmoured, upskilled and, alas, upcosted. In most regards, Minneapolis is indeed a direct step-up from Phoenix: her CA guns massively overpower her predecessor's CL ones, the Medium Armour cuts incoming gunfire damage in half, the heal is somewhat slower but comes with a handy damage resistance buff... but it's the +FP/Rld buff when taking enemies down that's the real deal and kicks her DPS into really high gear, as long as there's targets for her to take down.
 
  
 ### Tier 0.5:
@@ -468,9 +480,12 @@ _N/A_
 ---
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/78/ChicagoChibi.png "USS Chicago") - **[USS Chicago](https://azurlane.koumakan.jp/Chicago)**
-* Skill: Main gun shots have a 30% chance to inflict double damage.
+* Skill: 
+  * 30% chance upon Main Gun fire to double its shots' damage.
 
-* Desc: What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc. Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
+* Desc: 
+>What was said about Wichita applies to Chicago as well. Slightly frailer than she is and needing RNG to get the most out of her, she will nonetheless punch hard - and harder than anyone else when she does proc.  
+Also worth mentioning, if she procs on her first salvo, the buff affects the second one too!
 
 
  
@@ -478,85 +493,99 @@ _N/A_
 ---
 
 ![CA](https://azurlane.koumakan.jp/w/images/5/58/HoustonChibi.png "USS Houston") - **[USS Houston](https://azurlane.koumakan.jp/Houston)**
-* Skill: Main gun shots have a 20% chance to increase own Evasion by 100% for 15s.
+* Skill: 
+  * 20% chance upon Main Gun fire to gain +100% Eva for 15s.
 
 - Desc: "Problem? What problem?"
-
-* While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect. 
-
-* What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
+>While an Evasion-focused CA sounds ludicrous, and it is under most circumstances, Houston actually makes it work given enough Evasion-boosting auxiliaries: CAs live and die by their Evasion (or lack thereof), so stacking it actually lets her survive under heavy fire for much longer than you'd expect.  
+What issues she does have are fairly minor: she needs to proc to get tough, obviously, but her uptime is high and she has two chances to proc per firing cycle; and her damage output isn't as high as it could be, since her only skill is that Evasion buff, but it's still higher than most non-CA (and many Torp-CA) frontliners manage.
 
 ![CA](https://azurlane.koumakan.jp/w/images/e/e5/IndianapolisChibi.png "USS Indianapolis") - **[USS Indianapolis](https://azurlane.koumakan.jp/Indianapolis)**
 * Skill: 
   * Every 30s, spawns 2 shields that blocks 8 shots
   * 8% chance to reduce any damage taken by 50% on taking damage
 
-* Desc: The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat. Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
+* Desc: 
+>The CA you'll use the most early on, thanks to her high staying power and her simply being a gunboat.  
+Her poor damage output brings her down in the long run, though, and is usually dropped in favour of more powerful CA.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/73/PortlandChibi.png "USS Portland") - **[USS Portland](https://azurlane.koumakan.jp/Portland)**
 * Skill:
   * When together with Indianapolis, Increase Firepower, AA, and Reload by 15%
-  * 15% chance every 20s to reduce damage taken by 15% for 8s
+  * 20s 25% chance to reduce damage taken by the entire fleet by 15% for 8s
 
-*  Desc: A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
+*  Desc: 
+>A Portland without her Kai is fairly unremarkable, due to her much less impressive (but still serviceable) statline, but she's still a gunboat and, on the bright side, she now has a reason to roll with her sister.
 
 ![CA](https://azurlane.koumakan.jp/w/images/b/bf/SuffolkKaiChibi.png "HMS Suffolk Kai") - **[HMS Suffolk Kai](https://azurlane.koumakan.jp/Suffolk)** **(T1 when deployed with Queen Elizabeth)**
 * Skill: 
   * 25% chance when firing main guns to fire another salvo
   * 60% chance every 20s to increase Firepower by 40% for 10s
 
-* Desc: Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot. Just as frail as Wichita, though, and she's still a Torp-CA at heart.
+* Desc: 
+>Boasting the highest Firepower stat out of all the non-event CAs and armed with a pair of skills further capitalising on such Firepower, she's a few notches above every other Torp-CA and has access to QE's buffs to boot.  
+Just as frail as Wichita, though, and she's still a Torp-CA at heart.
 
 ![CA](https://azurlane.koumakan.jp/w/images/d/de/TakaoChibi.png "IJN Takao") - **[IJN Takao](https://azurlane.koumakan.jp/Takao)**
 * Skill:
   * 30% chance to do double damage when firing main gun
   * 30% chance to launch a second salvo on torpedo launch
 
-* Desc: Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
+* Desc: 
+>Takao is a tad on the RNG side, but sports high HP and a remarkable statline. Her skills are what makes her as good as she is, but they're not exactly the most reliable. Still, they are powerful and thus worth respect.
 
-![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
+![CA](https://azurlane.koumakan.jp/w/images/7/7a/FurutakaKaiChibi.png "IJN Furutaka Kai") ![CA](https://azurlane.koumakan.jp/w/images/7/7b/KakoKaiChibi.png "IJN Kako Kai") - **[IJN Furutaka Kai](https://azurlane.koumakan.jp/Furutaka)** & **[IJN Kako Kai](https://azurlane.koumakan.jp/Kako)**
 * Skill: 
   * 60% activation every 20s, increases own FP by 40% for 10s
   * Every torpedo launch has a 30.0% chance to launch another spread.
 
-* Desc: Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
+* Desc: 
+>Think Takao, except slightly less powerful with their skills but much more reliable and inexpensive. Often unfairly overlooked, but there's few better Torp-CAs for their cost.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/76/DeutschlandChibi.png "KMS Deutschland") - **[KMS Deutschland](https://azurlane.koumakan.jp/Deutschland)**
-* Skill: +35% damage against DD and CL.
+* Skill: 
+  * +35% dmg vs DD/CL.
 
-- Desc: Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.
-
-* Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.
-
-* A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
+- Desc: 
+>Too large for a mere CA and too small for a proper BC, Deutschland is an odd creature.  
+Capable of mounting a unique underchambered BB gun, she sports massive amounts of Firepower, a wide and severely damaging barrage and a raging hatred for anyone smaller than she is (DD and CL) - but is let down by that same gun's AP element (which underperforms against DD and CL), her lower-than-average Speed and Evasion, and the weak torpedoes she's stuck with.  
+A wrecking ball against small craft, to be sure, but watch out for when she picks a fight with people her size.
 
  
 ### Tier 2:
 ---
 
 ![CA](https://azurlane.koumakan.jp/w/images/8/89/NorthamptonChibi.png "USS Northampton") - **[USS Northampton](https://azurlane.koumakan.jp/Northampton)**
-* Skill: Increases Firepower of Cruisers (both CL and CA) in the fleet by 15%
+* Skill: 
+  * +15% FP to all CL/CA in the fleet.
 
-* Desc: What you use when you don't have Wichita but still want a powerful, buff-capable CA. She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
+* Desc: 
+>What you use when you don't have Wichita but still want a powerful, buff-capable CA.  
+She will be phased out eventually, alas, but she's good while she's there and you can still use her to augment a second fleet.
 
 ![CA](https://azurlane.koumakan.jp/w/images/7/7f/LondonChibi.png "HMS London") - **[HMS London](https://azurlane.koumakan.jp/London)**
-* Skill: Increases Firepower of the entire frontline by 15%
+* Skill: 
+  * +15% FP to the entire vanguard.
 
-* Desc: HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills. London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
+* Desc: 
+>HMS CA get a bad reputation for being frail and either undergunned or undertorped, despite possessing rather valuable skills.   
+London is one such example, but she rescues herself from the mediocrity of her statline by virtue of being one of the only two frontliners that can buff DD FP - a small niche, admittedly, but a useful one if you plan on fielding multiple DD with good guns.
 
 ![CA](https://azurlane.koumakan.jp/w/images/3/33/AtagoChibi.png "IJN Atago") - **[IJN Atago](https://azurlane.koumakan.jp/Atago)**
 * Skill: 
   * Increases HE Damage by 15%, HE burn chance by 12% and burn damage by 50%
   * 30% chance to launch a second salvo on torpedo launch
 
-* Desc: Atago is hot as hell in more ways than one. The most gun-focused of the Takao-class, she provides the most stable output and a considerable amount of it as well - though of course not as much as a Gun-CA would. Let the seas burn.
+* Desc: 
+>Atago is hot as hell in more ways than one.  
+The second most gun-focused of the Takao-class, she provides the most stable output and a decent amount of it as well - though nowhere near as much as a Gun-CA would, or even Takao for that matter.
 
 ![CA](https://azurlane.koumakan.jp/w/images/8/84/MayaChibi.png "IJN Maya") - **[IJN Maya](https://azurlane.koumakan.jp/Maya)**
 * Skill: Increases Reload by 35% and 30% chance to launch a second salvo on torpedo launch
 
-* Desc: Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps than any other CA, which is remarkable on its own right; however, such consistency is paid with an even lower potential damage output than that of Atago.
-
-* Also, she's slightly better at AA than her sisters (key word being "slightly", though).
+* Desc: 
+>Maya trades Takao's double damage chance for a permanent passive reload boost. An interesting concept, and paired with double Autoloaders lets her fire her guns and torps than any other CA, which is remarkable on its own right; however, such consistency is paid with an even lower potential damage output than that of Atago.  
+Also, she's slightly better at AA than her sisters (key word being "slightly", though).
 
 ![CA](https://azurlane.koumakan.jp/w/images/0/02/Admiral_HipperChibi.png "KMS Admiral Hipper") - **[KMS Admiral Hipper](https://azurlane.koumakan.jp/Admiral_Hipper)**
 * Skill: 
@@ -564,16 +593,16 @@ _N/A_
   * 8% chance to reduce any damage taken by 50% on taking damage
 
 - Desc: "HAAH?!"
-
-* Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
+>Damage control is about lowering the incoming damage as much as it is about preventing it in the first place, and Hipper learns the right lesson from Prinz Eugen - despite her much lower HP, Hipper's superior offensive statline and slightly improved tanking skills let her fulfil her role better and for cheaper. 
 
 ### Honourable Mentions
 ![CA](https://azurlane.koumakan.jp/w/images/5/5d/Prinz_EugenChibi.png "KMS Prinz Eugen") - **[KMS Prinz Eugen](https://azurlane.koumakan.jp/Prinz_Eugen)**
-* Skill: 70% chance every 20s to spawn 3 shields that lasts 10s and blocks 10 shots
+* Skill: 
+  * 20s 70% chance to spawn 3 rotating shields (durability: 10 shots each).
 
-* Desc: It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.
-
-* If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
+* Desc: 
+>It's exceedingly rare for a frontliner to have more HP than carriers and battlecruisers, but Prinz Eugen makes it happen. Proud owner of a HP pool larger than 90% of the ships in the game, she pays for this priviledge by being saddled with a semi-useless skill and poor offensive stats.  
+If you're looking that something that won't die anytime soon, look no further; if you're looking for something that can do anything more than that, look everywhere else.
 
 ---
 ## BB/BC ![BB/BC](https://azurlane.koumakan.jp/w/images/3/33/BB_img.png "BB/BC Icon")
@@ -587,59 +616,55 @@ _N/A_
   * 70% chance on Main Gun fire, launches a frontal barrage (damage based on skill level), also if the fleet contains 4 or more Sakura Empire ships she gains -45% cooldown on first Main Gun volley.
 
 - Desc: If you can't decide what to pick, pick it all.
-
-* Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
+>Packing offensive buffs for her enemies, defensive buffs for her backline, a barrage that includes normal arcing shells alongside linear AP shells and even aimed torpedoes, Amagi has quite literally a bit of everything in herself; and it all comes together as one sleek and effective whole, only marginally hampered by her IJN standard terrible AA.
 
 ![BB](https://azurlane.koumakan.jp/w/images/1/19/TirpitzChibi.png "KMS Tirpitz") - **[KMS Tirpitz](https://azurlane.koumakan.jp/Tirpitz)** **(T2 with BB/BC)**
 *  Skill: 30% damage increase when Tirpitz is the only BB/BC in the fleet || Every 15s, launches 4 Magnetic Torpedoes
 
 - Desc: "Torpitz? Neetpitz? Derpitz?"
-
-* One of the hardest hitting BBs in the game, provided you cater to her social anxiety.
-
-* Pair her with CV/CVL/BM/BBVs only, because her damage increase is the reason for her power; the homing torpedoes are the sweet, sweet icing on the cake and let her get some free damage on enemy mobs or, more often, intercept suicide boats before they even come close.
-
-* All that said, however, remember that the +30% dmg is the SOLE REASON she is as good as she is; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
-
+>One of the hardest hitting BBs in the game, provided you cater to her social anxiety.  
+Pair her with CV/CVL/BM/BBVs only, because her damage increase is the reason for her power; the homing torpedoes are the sweet, sweet icing on the cake and let her get some free damage on enemy mobs or, more often, intercept suicide boats before they even come close.  
+All that said, however, remember that the +30% dmg is the SOLE REASON she is as good as she is; without it she has very little reason to be used and will be easily outshone by pretty much everyone.
+ 
 ### Tier 0.5:
 ---
 
 ![BC](https://azurlane.koumakan.jp/w/images/5/5f/HoodChibi.png "HMS Hood") - **[HMS Hood](https://azurlane.koumakan.jp/Hood)**
-*  Skill: 70% chance on firing main gun to fire a special barrage and increase main fleet reload by 40% for 8s
+* Skill: 
+  * 70% chance upon Main Gun fire to launch a special barrage and grant +40% Reload to the backline for 8s.
 
 - Desc: "More than just a sub". 
-
-* Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.
-
-* Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
+>Second only to Tirpitz in terms of pure staying power and armed with a quickly-proccable, backline-buffing, devastating barrage, she is exceptionally good under almost all circumstances; whether it is tearing apart mob nodes, showering enemy battleships in heavy firepower or providing support, Hood gets it done.  
+Remember to have her be the flagship to make the most out of her barrage, and that the lower the cooldown on her main gun, the better.
 
 ![BB](https://azurlane.koumakan.jp/w/images/e/e0/HyuugaChibi.png "IJN Hyuuga") - **[IJN Hyuuga](https://azurlane.koumakan.jp/Hyuuga)**
-* Skill: Increases Firepower by 20% || Increases main fleet Firepower by 15%
+* Skill: 
+  * +20% FP to self.
+  * +15% FP to the entire backline.
 
-* Desc: THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
+* Desc: 
+>THE cost-effective BB in the game, bar none. No other battleship can boast a Firepower as high as hers, nor can they buff their colleagues' Firepower while they're at it - and Hyuuga does all this at the low, low price of 13 Oil.
 
 ### Tier 1:
 ---
 
 ![BB](https://azurlane.koumakan.jp/w/images/1/10/ArizonaChibi.png "USS Arizona") - **[USS Arizona](https://azurlane.koumakan.jp/Arizona)**
-* Skill: 50% chance on firing main gun to heal escort fleet for 10% HP.
+* Skill: 
+  * 50% chance on Main Gun fire to heal the vanguard by 10% of their max HP.
 
 - Desc: WAIT DON'T LEAVE JUST YET. 
-
-* Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
-
-* Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
+>Healing on a cointoss sounds pretty bad, yes, but ask yourself this - how many units can properly heal at all, and how many of them pack the Firepower, sturdiness and self-defence capabilities of a BB?
+>Yup, that's just her - and while her heal isn't as reliable as that of Unicorn or Shouhou, she's an excellent fit for a vanguard who doesn't strictly need the heals to stay alive and keep fighting.
 
 ![BB](https://azurlane.koumakan.jp/w/images/c/cd/North_CarolinaChibi.png "USS North Carolina") - **[USS North Carolina](https://azurlane.koumakan.jp/North_Carolina)**
 * Skill:
   * -15% incoming aviation damage to the backline as long as North Carolina is alive and in the fleet
   * Increase FP by 30% of her total AA stat (buffs not included)
 
-- Desc: Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.
-
-* North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).
-
-* Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
+- Desc: 
+>Anti-air for backliners is a bit of a meme, but that doesn't mean it can't be a good one.  
+North Carolina goes harder than anyone else on the AA front, as far as backliners are concerned - not only does she prevent plane damage with her skill, she also grows stronger the more AA she acquires (and she's plenty strong to begin with, sporting a very high base FP thanks to said skill).  
+Whether you do actually need all that AA is another matter entirely, but rest assured that she will lay on the hurt even if you don't - and if you do, that's just gravy.
 
 ![BB](https://azurlane.koumakan.jp/w/images/9/95/WashingtonChibi.png "USS Washington") - **[USS Washington](https://azurlane.koumakan.jp/Washington)**
 * Skill: 
@@ -647,10 +672,8 @@ _N/A_
   * When South Dakota's HP falls to/below 30%, South Dakota gains Protection (avoid lethal damage for 5s) while Washington deals +20% damage and absorbs 30% of the damage sustained by South Dakota.
 
 - Desc: "Smile for the FCR!"
-
-* An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.
-
-* As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
+>An upgunned, uparmoured and upcosted Pennsylvania with some minor synergy.  
+As expensive a price tag as 15 Oil is, Washington makes up for it with a slightly better statline (AA aside, which basically doubles) and an improved barrage with some mob-clearing power - as well as a defensive synergy with South Dakota, which sees more usage in PvP than it does in PvE as it hinges on Sodak risking destruction, something you should and most likely can avoid in the first place.
 
 ![BB](https://azurlane.koumakan.jp/w/images/2/2f/Kaga_%28Battleship%29Chibi.png "IJN Kaga BB") - **[IJN Kaga (BB)](https://azurlane.koumakan.jp/Kaga_(Battleship))**
 * Skill:
@@ -658,19 +681,18 @@ _N/A_
   * 10s after battle start and every 20s, afterwards, launches a torpedo barrage (2 lines of 2 aimed torps).
 
 - Desc: A sidegrade to Washington.
-
-* Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.
-
-* She also has a few torps to throw out every now and then, but they're fairly lacklustre.
+>Sturdier, more powerful, better armed and in possession of a much more useful synergy (Akagi still gets her +35% Aviation buff with her) in PvE, BB Kaga - affectionately called "Baga" - does however forfeit some reliability on her enhanced barrage and is stuck with an atrocious AA stat.  
+She also has a few torps to throw out every now and then, but they're fairly lacklustre.
 
 ![BB](https://azurlane.koumakan.jp/w/images/e/e1/YamashiroChibi.png "IJN Yamashiro") ![BB](https://azurlane.koumakan.jp/w/images/a/a8/FusouChibi.png "IJN Fusou") - **[IJN Yamashiro](https://azurlane.koumakan.jp/Yamashiro)** **[IJN Fusou](https://azurlane.koumakan.jp/Fusou)** **(Kai)**
-* Skill: Increases Firepower by 20% || (Launches more seaplanes on first airstrike)
+* Skill: 
+  * +20% FP to self.
+  * (Kai) On first airstrike, launch additional Zuiun.
 
-* Desc: The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.
-
-* Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.
-
-* A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
+* Desc: 
+>The second most cost-effective BBs in the game, owing to their remarkable statline, Kai nodes and comparatively low Oil costs.  
+Their Kai is unique in that it is a sidegrade rather than an upgrade: when turned into BBV, they trade their CL guns and 1/3 of their BB salvo for seaplanes, letting them launch airstrikes as if they were carriers.  
+A steep price to pay, especially considering how weak the seaplanes are in comparison to 'proper' bombers, how slow the launches are in comparison to 'proper' carriers and how much better are Ise and Hyuuga as BBVs.
  
 ### Tier 1.5:
 ---
@@ -679,92 +701,97 @@ _N/A_
   * Every 30s, absorb 50% damage taken by main fleet for 8s, then heal for 50% of the damage taken during that time
   * 30% chance to do double damage when firing main gun
 
-* Desc: While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
+* Desc: 
+>While her tanking skill isn't good enough to make her the tank she's meant to be, she is undeniably hard to kill thanks to her large HP pool and all-around excellent stats, AA included (a rarity among BB/Cs); her double damage proc needs RNG to work, but when it does it will annihilate whatever she aimed at.
 
 ![BB](https://azurlane.koumakan.jp/w/images/0/03/Queen_ElizabethChibi.png "HMS Queen Elizabeth")- **[HMS Queen Elizabeth](https://azurlane.koumakan.jp/Queen_Elizabeth)** **(T0 in any HMS fleet)**
-* Skill: Increases Firepower, Torpedo, Air Power, AA, Reload, and Evasion of HMS ships by 15%
+* Skill: 
+  * +15% FP/Torp/AA/Evasion/Reload to all HMS ships.
 
-* Desc: The core of most HMS fleets. If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
+* Desc: The core of most HMS fleets. 
+>If you're taking her, it's because of her worth as a force multiplier - her statline is just alright, even after her own buffs, and there's much better picks for solo backliners.
  
 ![BB](https://azurlane.koumakan.jp/w/images/c/c9/IseChibi.png "IJN Ise") - **[IJN Ise](https://azurlane.koumakan.jp/Ise)**
-* Skill: Increase own FP by 20%.
+* Skill: 
+  * +20% FP to self.
 
 * Desc: Quite literally an improved non-Kai Yamashiro/Fusou in all respects, from the statline to the efficiencies. Not much to say here.
 
 ![BC](https://azurlane.koumakan.jp/w/images/5/52/GneisenauChibi.png "KMS Gneisenau") - **[KMS Gneisenau](https://azurlane.koumakan.jp/Gneisenau)** **(T1 if deployed with Graf Zeppelin)**
 * Skill:
-  * Increases Firepower by 25%
-  * Every 20s launches 3 unguided torpedoes
+  * +25% FP to self.
+  * 20s, launch 3 unguided torps in a cone.
 
-* Desc: Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her competitors (excepting Hood), while still being able to defend herself through a set of CL guns.
-
-* A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
+* Desc: 
+>Think Tirpitz, except not quite as hard-hitting and not as fussy about her company. She will outdamage all her competitors (excepting Hood), while still being able to defend herself through a set of CL guns.  
+A force to be reckoned with, especially considering her cost, but don't count on the torps to do much more than stop the occasional fireboat.
  
 ![BC](https://azurlane.koumakan.jp/w/images/8/89/ScharnhorstChibi.png "KMS Scharnhorst") - **[KMS Scharnhorst](https://azurlane.koumakan.jp/Scharnhorst)** **(T1 if deployed with Graf Zeppelin)**
 * Skill: Every 15s, fires a 3-bullet (Normal, upgrades to AP after SL6) salvo at a random target. This salvo will automatically crit; Every 20s launches 3 unguided torpedoes
 
-* Desc: Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.
+* Desc: 
+>Think Warspite, except with a functional barrage and less showboating. Between her regular guns, the CL secondaries, the automated barrage and the torps, she will throw out damage more often than any other backliner in the game.  
+A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
 
-* A force to be reckoned with, just like her sister; and just like her sister, don't count on her torps at all.
- 
+
 ### Tier 2:
 ---
 
 ![BB](https://azurlane.koumakan.jp/w/images/5/59/CaliforniaChibi.png "USS California") - **[USS California](https://azurlane.koumakan.jp/California)**
-* Skill: 30% chance to proc on main gun fire, x2 damage on the entire volley
+* Skill: 
+  * 30% chance upon Main Gun fire, x2 damage to the entire volley.
 
-* Desc: By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost. Still hits damn hard, though, and harder still when she's on a good roll.
+* Desc: 
+>By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost.   
+Still hits damn hard, though, and harder still when she's on a good roll.
 
 ![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - **[USS Pennsylvania](https://azurlane.koumakan.jp/Pennsylvania)**
-* Skill: 60% chance to proc every 20 seconds, fires a special barrage (multiple arcing salvo shelling a medium-sized area in the middle of the screen).
+* Skill: 
+  * 20s 60% chance, fires a special barrage (4 salvo of 3 shots barraging bombarding the middle of the screen, Normal modifiers)
 
-* Desc: Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one. While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.
-
-* A bit fiddly, but arguably more flexible than most and just as powerful.
+* Desc: 
+>Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one.  
+While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.  
+A bit fiddly, but arguably more flexible than most and just as powerful.
 
 ![BB](https://azurlane.koumakan.jp/w/images/d/d4/Prince_of_WalesChibi.png "HMS Prince of Wales") - **[HMS Prince of Wales](https://azurlane.koumakan.jp/Prince_of_Wales)** **(T1.5 if deployed w/ USS fleet)**
-* Skill: For every USS ship in the fleet, increase her own Firepower, AA, Reload, and Evasion by 5%
+* Skill: 
+  * For every USS ship in the fleet, +5% to own FP/AA/Evasion/Reload.
 
-* Desc: Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
+* Desc: 
+>Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
 
 ![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - **[HMS Warspite](https://azurlane.koumakan.jp/Warspite) ** **(T1.5 if deployed w/ Queen Elizabeth)**
 * Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
 
 - Desc: "The Queen's Royal Corgi".
-
-* Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game. 
-
-* [Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+>Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game.  
+[Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
  
 ![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - **[HMS Renown](https://azurlane.koumakan.jp/Renown)** **(T1.5 if deployed w/ Queen Elizabeth)**
-* Skill: Every time the main gun is fired, increases the damage of the subsequent main gun attack by 15%. 
+* Skill: 
+  * Upon first Main Gun fire, +15% Damage to all subsequent salvo (does not stack nor reset).
 
-* Desc: Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself.
+* Desc: 
+>Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself properly.
 
 ### Honorable Mention:
 #### ![BM](https://azurlane.koumakan.jp/w/images/f/fe/TerrorChibi.png "HMS Terror") ![BM](https://azurlane.koumakan.jp/w/images/a/a3/ErebusChibi.png "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
 * Skill: Every 20s, 60% chance to fire a special barrage.
 
 - Desc: "The poor man's Barrage Boat."
-
-* A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.
-
-* How does this come together? As pint-sized discount-costed powerhouses for early world farming, that's how: while low, their Firepower is enough to stop fireboats in their tracks, and if given enough Evasion, they can be reliably expected to evade incoming BB salvo, prolonging their operational time much beyond what their abysmal statline would lead you to believe.
-
-* Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
+>A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.  
+How does this come together? As pint-sized discount-costed powerhouses for early world farming, that's how: while low, their Firepower is enough to stop fireboats in their tracks, and if given enough Evasion, they can be reliably expected to evade incoming BB salvo, prolonging their operational time much beyond what their abysmal statline would lead you to believe.  
+Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
  
 #### ![BM](https://azurlane.koumakan.jp/w/images/b/bc/NelsonChibi.png "HMS Nelson") ![BM](https://azurlane.koumakan.jp/w/images/c/ca/RodneyChibi.png "HMS Erebus") - [HMS Nelson](https://azurlane.koumakan.jp/Nelson) [HMS Rodney](https://azurlane.koumakan.jp/Rodney)
 * Skill: 40% chance to fire a special barrage when firing main gun.
 
 - Desc: "Newbie traps."
-
-* So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?
-
-* Well, no, not really. It'll be like that only early on, where enemies tend to fall to a stiff breeze anyway, but the moment they're faced by serious opposition and normal (eg. 1.5k / 2k HP per trash mob) HP pools, the weaknesses of said barrage quickly come to the fore: low proc rate, proc fixed to main gun fire (which means having to take faster and weaker guns to fish for said procs), super-wide pattern subject to massive scatter and unable to hit what's directly in front of them, poor armour modifiers and poor base damage.
-
-* In short, their barrage is the only notable feature they have - and it's both unreliable and weak.
-
-* Avoid.
+>So you just started playing and found these two BBs. Their barrages fire lasers everywhere and melt mobs and they look pretty tough, so they've gotta be good, right?  
+Well, no, not really. It'll be like that only early on, where enemies tend to fall to a stiff breeze anyway, but the moment they're faced by serious opposition and normal (eg. 1.5k / 2k HP per trash mob) HP pools, the weaknesses of said barrage quickly come to the fore: low proc rate, proc fixed to main gun fire (which means having to take faster and weaker guns to fish for said procs), super-wide pattern subject to massive scatter and unable to hit what's directly in front of them, poor armour modifiers and poor base damage.  
+In short, their barrage is the only notable feature they have - and it's both unreliable and weak.  
+Avoid.
 
 #### ![BB](https://azurlane.koumakan.jp/w/images/b/b3/ColoradoChibi.png "USS Colorado") ![BB](https://azurlane.koumakan.jp/w/images/c/c1/West_VirginiaChibi.png "USS West Virginia") ![BB](https://azurlane.koumakan.jp/w/images/a/a9/MarylandChibi.png "USS Maryland") - [USS Colorado](https://azurlane.koumakan.jp/Colorado) [USS West Virginia](https://azurlane.koumakan.jp/West_Virginia) [USS Maryland](https://azurlane.koumakan.jp/Maryland)
 * Skill: 
@@ -772,10 +799,8 @@ _N/A_
   * (Maryland) When her HP drops below 70% increase her damage dealt based on how low her HP is, up to +35%.
 
 - Desc: "The pits."
-
-* You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.
-
-* Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
+>You know what was just said about Nelson and Rodney? Well, they're even worse, courtesy of their weaker statlines and lack of CL guns; as for Maryland's +Dmg on low HP, it goes without saying that if you're taking damage, you're in an undesirable situation to begin with.  
+Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in the game.
 
 ---
 ## CV/CVL ![CV(L)](https://azurlane.koumakan.jp/w/images/d/d1/CV_img.png "CV/L Icon")
@@ -783,11 +808,14 @@ _N/A_
 ---
 
 ![CV](https://azurlane.koumakan.jp/w/images/d/dc/EnterpriseChibi.png "USS Enterprise") - [USS Enterprise](https://azurlane.koumakan.jp/Enterprise)
-* Skill: 70% chance on Airstrike to do double damage and evade all attacks for 8s
+* Skill: 
+  * 70% chance on airstrike launch, airstrike deals x2 damage and Enterprise becomes invincible for 8s.
 
 * Loadout: 3/3/2
 
-* Desc: The best solo CV in the game, her base stats outstrip those of all her competitors and her skill is as overpowered as it gets. Her only real downside is the chance that the proc may not go off and leave you with just an excellent statline.
+* Desc: 
+>The best solo CV in the game, her base stats outstrip those of all her competitors and her skill is as overpowered as it gets. Her only real downside is the chance that the proc may not go off and leave you with just an excellent statline.
+ 
  
  ### Tier 0.5:
  ---
@@ -800,10 +828,9 @@ _N/A_
 * Loadout: 3/2/3
 
 - Desc: "The Foxes launched first."
+>Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle (compared to other CVs).  
+As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
 
-* Well, there they are, the poster vixens of Azur Lane. Distintctive in both looks and performance, they dwarf literally every other Carrier in the game with their massive amounts of Airpower and get to launch faster than anyone else, guaranteeing swift victories in PvP and one and a half extra airstrike per battle (compared to other CVs).
-
-* As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
 
 ### Tier 1:
 ---
@@ -815,9 +842,9 @@ _N/A_
 
 * Loadout: 0/6/2
 
-* Desc: Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.
-
-* Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
+* Desc: 
+>Also referred to as RNGer for obvious reasons, and infamous because of her potentially infinite damage, you need luck on your side to get the most out of her; even without the procs, though, very few carriers get close to the sheer damage output she can unleash thanks to her 8 sea-attacking planes and high Efficiencies, and none of them can manage it at her rock-bottom 9 Oil cost.  
+Beware her near-total lack of anti-air presence, though; without Fighters or AA guns to speak of, there's little she can do about enemy planes.
 
 ![CV](https://azurlane.koumakan.jp/w/images/3/3d/YorktownChibi.png "USS Yorktown") - **[USS Yorktown](https://azurlane.koumakan.jp/Yorktown)**
 * Skill: 
@@ -827,8 +854,7 @@ _N/A_
 * Loadout: 3/3/2
 
 - Desc: "Putting the 'fleet' in 'fleet carrier'".
-
-* One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
+> One of the hardiest and most well-rounded carriers in the game, Yorktown can cover any role admirably well, courtesy of her balanced plane loadout, her frontline buff, her self-heal and her personal SBD squadron, ready to bust the heads of whoever thought she was easy pickings.
 
 ![CVL](https://azurlane.koumakan.jp/w/images/e/e7/UnicornChibi.png "HMS Unicorn") - **[HMS Unicorn](https://azurlane.koumakan.jp/Unicorn)**
 * Skill: 
@@ -837,7 +863,8 @@ _N/A_
 
 * Loadout: 3/0/3
 
-* Desc: Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
+* Desc: 
+>Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
  
 ![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(Tier 0.5 if deployed with Souryuu)**
 * Skill: 
@@ -846,7 +873,8 @@ _N/A_
 
 * Loadout: 3/2/3
 
-* Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
+* Desc: 
+>The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
 
 ![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - **[IJN Souryuu](https://azurlane.koumakan.jp/Souryuu)** **(Tier 0.5 if deployed with Hiryuu)**
 * Skill: 
@@ -855,25 +883,30 @@ _N/A_
   
 * Loadout: 3/3/2
 
-* Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
+* Desc: 
+>A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
 ![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)** **(T0.5 w/ other CV/L)**
 * Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * On launching an airstrike, +15% Aviation (all CV/L) for 8s.
+  * On launching an airstrike, heals the escort fleet by 8% of their HP.
+  * On launching an airstrike, +15% Aviation to all CV/L for 8s.
 
 * Loadout: 0/3/3
 
-* Desc: Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside. Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output.
+* Desc: 
+>Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside. Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output.
 
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(Tier 0 if deployed with Zuikaku)**
 * Skill: 
   * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
   * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
 
-* Loadout: 2/2/
+* Loadout: 2/2/4
 
-* Desc: More support-based than her sister. Frailer than her sibling when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff). Her buffs are good enough to warrant usage even solo.
+* Desc: 
+>More support-based than her sister and frailer than she when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff).  
+Her buffs and layout are good enough to warrant usage even solo.
+
 
 ### Tier 1.5:
 ---
@@ -883,7 +916,9 @@ _N/A_
 
 * Loadout: 2/6/0
 
-* Desc: These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo. They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
+* Desc: 
+>These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo.  
+They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
 ![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - **[HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)**
 * Skill: 
@@ -892,7 +927,8 @@ _N/A_
 
 * Loadout: 0/2/6
 
-* Desc: A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+* Desc: 
+>A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
 
 ![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - **[KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin)** **(Tier 0 if deployed in a KMS fleet)**
 * Skill: 
@@ -901,9 +937,10 @@ _N/A_
 
 * Loadout: 2/6/0
 
-* Desc: The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.
+* Desc: 
+>The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.  
+Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
-* Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
 ### Tier 2:
 ---
@@ -915,9 +952,9 @@ _N/A_
 
 * Loadout: 3/3/0
 
-* Desc: Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.
-
-* Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
+* Desc: 
+>Similar in concept and usage to Ranger, her airstrikes come out faster but don't provide quite the same weight of fire.  
+Still, high plane efficiency coupled with a neat AA buff for the backline allows her to be quite helpful in most situations - and with the advent of ASW, she's the best CVL for the task.
  
 ![CV](https://azurlane.koumakan.jp/w/images/d/db/HornetChibi.png "USS Hornet") - **[BIG WASP YO (USS Hornet)](https://azurlane.koumakan.jp/Hornet)**
 * Skill: 
@@ -926,16 +963,18 @@ _N/A_
 
 * Loadout: 3/3/2
 
-* Desc: Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.
-
-* Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
+* Desc: 
+>Once a meme, now a force to be reckoned with. Think of her as a barrage boat in carrier form - her main job is blasting ships into smithereens, and she does that remarkably well with two powerful skills dedicated precisely to that and a solid statline.  
+Just don't expect much in the way of support, beyond the air coverage provided by her okay fighters.
 
 ![CV](https://azurlane.koumakan.jp/w/images/0/00/IllustriousChibi.png "HMS Illustrious") - **[HMS Illustrious](https://azurlane.koumakan.jp/Illustrious)**
 * Skill: On launching an airstrike, provides a shield to the escort fleet for 8s. Shield HP is 10% of Illustrious's HP
 
 * Loadout: 6/0/2
 
-* Desc: A very defensive-focused CV with double fighter slots and a shield generator. Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (like Eldridge's).
+* Desc: 
+>A very defensive-focused CV with double fighter slots and a shield generator.  
+Her niche is providing air superiority and protecting the frontline from harm through her shields - helpful, and while they won't replace proper healer support, they WILL help with skills proccing on damage sustained (like Eldridge's).
 
 ![CV](https://azurlane.koumakan.jp/w/images/9/97/ZuikakuChibi.png "IJN Zuikaku")- **[IJN Zuikaku](https://azurlane.koumakan.jp/Zuikaku)** **(Tier 0 if deployed with Shoukaku)**
 * Skill: 
@@ -944,7 +983,9 @@ _N/A_
 
 * Loadout: 2/3/3
 
-* Desc: An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'. Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
+* Desc: 
+>An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'.  
+Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
 ### Honorable Mention:
 #### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
@@ -954,9 +995,9 @@ _N/A_
 
 * Loadout: 6/2/0
 
-* Desc: Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.
-
-* Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
+* Desc: 
+>Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.  
+Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
 
 #### ![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 * Skill: When there is a Royal Navy ship in the Main Fleet, every time Wasp launches an airstrike, there is a 30% (50%) chance of launching another round of airstrike with Spitfires. 
@@ -964,8 +1005,9 @@ _N/A_
 * Loadout: 3/3/2
 
 - Desc: "SMOL WASP YO"
-
-* The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go. Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners. While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
+>The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go.  
+Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners.  
+While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
 
 #### ![CVL](https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
 * Skill: 
@@ -974,9 +1016,9 @@ _N/A_
 
 * Loadout: 3/0/3
 
-* Desc: The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.
-
-* Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
+* Desc: 
+>The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.  
+Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
 ---
 # AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon") - A Few Notes
