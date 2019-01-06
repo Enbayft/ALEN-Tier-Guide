@@ -774,37 +774,51 @@ Their Kai is unique in that it is a sidegrade rather than an upgrade: when turne
 ### Tier 2:
 ---
 
-- USS California
-- Skill: 30% chance to proc on main gun fire, x2 damage on the entire volley
-- Desc: By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost. Still hits damn hard, though, and harder still when she's on a good roll.
+![BB](https://azurlane.koumakan.jp/w/images/5/59/CaliforniaChibi.png "USS California") - [USS California](https://azurlane.koumakan.jp/California)
 
-- USS Pennsylvania
-- Skill: 60% chance to proc every 20 seconds, fires a special barrage (multiple arcing salvo shelling a medium-sized area in the middle of the screen).
-- Desc: Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one. While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.
-A bit fiddly, but arguably more flexible than most and just as powerful.
+> Skill: 30% chance to proc on main gun fire, x2 damage on the entire volley
 
-- HMS Prince of Wales (T1.5 if deployed w/ USS fleet)
-- Skill: For every USS ship in the fleet, increase her own Firepower, AA, Reload, and Evasion by 5%
-- Desc: Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
+> Desc: By most intents and purposes, a discount South Dakota who gives up her bigger, blacker sister's AA capabilities, a portion of her statline and her shield for a lower Oil cost. Still hits damn hard, though, and harder still when she's on a good roll.
 
-- HMS Warspite (T1.5 if deployed w/ Queen Elizabeth)
-- Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
+![BB](https://azurlane.koumakan.jp/w/images/6/61/PennsylvaniaChibi.png "USS Pennsylvania") - [USS Pennsylvania]("https://azurlane.koumakan.jp/Pennsylvania")
+
+> Skill: 60% chance to proc every 20 seconds, fires a special barrage (multiple arcing salvo shelling a medium-sized area in the middle of the screen).
+
+> Desc: Often overlooked in favour of other barrage ships (eg. Hood, Washington), Pennsylvania plays it different from many others by having a timed proc instead of a main-gun-fire-based one. While this means you can equip whichever BB gun you'd like to stick on her, it also means that she may proc when you don't need her to and waste the barrage.
+
+> A bit fiddly, but arguably more flexible than most and just as powerful.
+
+![BB](https://azurlane.koumakan.jp/w/images/d/d4/Prince_of_WalesChibi.png "HMS Prince of Wales") - [HMS Prince of Wales](https://azurlane.koumakan.jp/Prince_of_Wales) **(T1.5 if deployed w/ USS fleet)**
+
+> Skill: For every USS ship in the fleet, increase her own Firepower, AA, Reload, and Evasion by 5%
+
+> Desc: Demands a specific fleet composition to outshine her competition, but is it sweet when she does - +25% FP, AA, Reload and Evasion are nothing to laugh at, but it cannot be understated how much she limits your composition.
+
+![BB](https://azurlane.koumakan.jp/w/images/8/87/WarspiteChibi.png "HMS Warspite") - [HMS Warspite](https://azurlane.koumakan.jp/Warspite) **(T1.5 if deployed w/ Queen Elizabeth)**
 - Desc: "The Queen's Royal Corgi".
-Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game. 
-Also, she's a corgi. (https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
+
+> Skill: Every 15s, fires a 2-bullet AP salvo at the furthermost target. This salvo will automatically crit.
+
+> Warspite's historical achievements may be impressive, but AL does little justice to them beyond giving her the highest base FP of all BB (PR notwithstanding) and an okay statline elsewhere. What brings her down is partly her effective FP being lower than many others', but mostly her useless skill: an automated, autocritting barrage sounds great, until you realise it struggles immensely hitting anything that's not a stationary target and that the AP modifier makes it useless against the very common Light Armour in the game. 
+
+> [Also, she's a corgi.](https://cdn.discordapp.com/attachments/460645783021289472/516185017995624449/RoyalCorgi.png)
  
-- HMS Renown (T1.5 if deployed w/ Queen Elizabeth)
-- Skill: Every time the main gun is fired, increases the damage of the subsequent main gun attack by 15%. 
-- Desc: Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself.
+![BC](https://azurlane.koumakan.jp/w/images/c/c1/RenownChibi.png "HMS Renown") - [HMS Renown](https://azurlane.koumakan.jp/Renown) **(T1.5 if deployed w/ Queen Elizabeth)**
 
+> Skill: Every time the main gun is fired, increases the damage of the subsequent main gun attack by 15%. 
 
->>> Honorable Mention:
-= HMS Terror & Erebus
-- Skill: Every 20s, 60% chance to fire a special barrage.
+> Desc: Lo and behold, owing to solid FP and Reload as well as a good skill the Saberface's damage output is pretty good. DD secondary guns however mean she won't really be able to defend herself.
+
+### Honorable Mention:
+#### ![BM](https://azurlane.koumakan.jp/Terror "HMS Terror") ![BM](https://azurlane.koumakan.jp/Erebus "HMS Erebus") [HMS Terror](https://azurlane.koumakan.jp/Terror) [HMS Erebus](https://azurlane.koumakan.jp/Erebus)
 - Desc: "The poor man's Barrage Boat."
-A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.
-How does this come together? As pint-sized discount-costed powerhouses for early world farming, that's how: while low, their Firepower is enough to stop fireboats in their tracks, and if given enough Evasion, they can be reliably expected to evade incoming BB salvo, prolonging their operational time much beyond what their abysmal statline would lead you to believe.
-Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
+
+> Skill: Every 20s, 60% chance to fire a special barrage.
+
+>A description partly in jest, and partly absolutely accurate - compared to a normal BB, they are incredibly frail (barely 3k HP with Light Armour) and considerably weaker (low FP, slightly lower Efficiency, one less salvo per volley), but they also cost a fraction than what they do and still get truly impressive barrages.
+> How does this come together? As pint-sized discount-costed powerhouses for early world farming, that's how: while low, their Firepower is enough to stop fireboats in their tracks, and if given enough Evasion, they can be reliably expected to evade incoming BB salvo, prolonging their operational time much beyond what their abysmal statline would lead you to believe.
+
+> Monitors can be expected to auto their way up to W8 or 9 with little resistance. Any further, though, and auto becomes almost impossible as enemies get more accurate, tougher and more powerful: the moment a BB opens up on them, they're already dead.
  
 - HMS Nelson & Rodney
 - Skill: 40% chance to fire a special barrage when firing main gun.
