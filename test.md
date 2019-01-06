@@ -939,32 +939,65 @@ Outgunned, outskilled, outcosted. With no hyperbole, they ARE the worst BBs in t
 > Desc: More support-based than her sister. Frailer than her sibling when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff). Her buffs are good enough to warrant usage even solo.
  
  
->>> Tier 1.5:
-- USS Lexington/Saratoga
-- Skill: Every 10s, fires a 3x2-bullet HE salvo; on launching an airstrike, increases escort fleet Damage by 15% for 8s
-- Loadout: 2/6/0
-- Desc: These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo. They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
+### Tier 1.5:
+---
+
+![CV](https://azurlane.koumakan.jp/w/images/3/33/LexingtonChibi.png "USS Lexington") ![CV](https://azurlane.koumakan.jp/w/images/f/fb/SaratogaChibi.png "USS Saratoga") - [USS Lexington](https://azurlane.koumakan.jp/Lexington) [USS Saratoga](https://azurlane.koumakan.jp/Saratoga)
+
+> Skill: Every 10s, fires a 3x2-bullet HE salvo; on launching an airstrike, increases escort fleet Damage by 15% for 8s
+
+> Loadout: 2/6/0
+
+> Desc: These two ships are identical in use, and specialize in clearing smaller enemy fleets due to their bomber focus and special salvo. They don't launch fast, but when they do they really leave a mark - make sure to stagger the launches as to not overwrite the Damage buff, though.
  
-- HMS Ark Royal
-- Skill: Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s; 25% chance to do double damage on Airstrike.
-- Loadout: 0/2/6
-- Desc: A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+![CV](https://azurlane.koumakan.jp/w/images/c/c4/Ark_RoyalChibi.png "HMS Ark Royal") - [HMS Ark Royal](https://azurlane.koumakan.jp/Ark_Royal)
 
-- IJN Hiryuu (Tier 1 if deployed with Souryuu)
-- Skill: Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike; When paired with Soryu, increases Air Power by 35%
-- Loadout: 3/2/3
-- Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
+> Skill: 
 
-- IJN Souryuu (Tier 1 if deployed with Hiryuu)
-- Skill: On launching an airstrike, increases escort fleet Damage by 15% for 8s; When paired, increases Air Power by 35%
+>> Airstrikes deploy a round of Torpedoes from Swordfish planes and slow enemies by 60% for 8s
+
+>> 25% chance to do double damage on Airstrike.
+
+> Loadout: 0/2/6
+
+> Desc: A rare Torpedo-focused CV, coming stock with two TB slots and a skill that lets her launch even more WHILE slowing any enemy on the screen. Whether it's boss-busting or wave-clearing, give her the appropriate planes and she won't fail to impress - just don't expect much of anything from her terrible DBs.
+
+![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - [IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu) **(Tier 1 if deployed with Souryuu)**
+
+> Skill: 
+
+>> Once a battle, upon taking lethal damage, will not sink and will evade all attacks for 15s, simultaneously launching an additional airstrike
+
+>> When paired with Soryu, increases Air Power by 35%
+
+> Loadout: 3/2/3
+
+> Desc: The stubbornest Kaga ever. Very comparable to the white kitsune in statline and efficiencies, though slightly inferior; what sets her apart from the fox is her skill, allowing her to narrowly avoid death and strike out for one last hail mary. Could win you battles both in PvE and PvP, but don't build on it.
+
+![CV](https://azurlane.koumakan.jp/w/images/c/c8/SouryuuChibi.png "IJN Souryuu") - [IJN Souryuu](https://azurlane.koumakan.jp/Souryuu) **(Tier 1 if deployed with Hiryuu)**
+
+> Skill: 
+
+>> On launching an airstrike, increases escort fleet Damage by 15% for 8s
+
+>> When paired, increases Air Power by 35%
 Loadout: 3/3/2
-- Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
 
-- KMS Graf Zeppelin (Tier 0 if deployed in a KMS fleet)
-- Skill: 30% increase in efficiency for equipped German planes; All KMS ships in fleet take 15% less damage.
-- Loadout: 2/6/0
-- Desc: The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.
-Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
+> Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
+
+![CV](https://azurlane.koumakan.jp/w/images/5/53/Graf_ZeppelinChibi.png "KMS Graf Zeppelin") - [KMS Graf Zeppelin](https://azurlane.koumakan.jp/Graf_Zeppelin) **(Tier 0 if deployed in a KMS fleet)**
+
+> Skill: 
+
+>> 30% increase in efficiency for equipped German planes
+
+>> All KMS ships in fleet take 15% less damage.
+
+> Loadout: 2/6/0
+
+> Desc: The single toughest CV in the game, courtesy of her ludicrous HP pool (6.8k), the flat damage cut she extends to every KMS unit in the fleet (herself included) and the couple of 150% ME155s she can field to keep the skies clear; and as for the offence, she's no slouch either with her remarkable six 160% Efficiency Stukas.
+
+> Her only real flaw is her lacking Reload, a mere 100 compared to most other top-of-the-line carriers - and, of course, her lack of synergy with non-KMS units, so keep her in there and she'll do work.
 
 
 >>> Tier 2:
@@ -991,28 +1024,44 @@ Just don't expect much in the way of support, beyond the air coverage provided b
 - Desc: An extra-tough carrier designed for prolonged fights, which basically means 'boss battles only'. Her skill barely contributes to most battles, and without her sister ship she's missing out a fair chunk of the stats that let her ramp up be as effective as it can be.
 
 
->>> Honorable Mention:
-= USS Langley Kai
-- Skill: increases experience gained by CV by 15%; increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
-- Loadout: 6/2/0
-- Desc: Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.
-Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
+### Honorable Mention:
+#### ![CVL](https://azurlane.koumakan.jp/w/images/9/92/LangleyKaiChibi.png "USS Langley") - [USS Langley Kai](https://azurlane.koumakan.jp/Langley)
+> Skill: 
 
-= USS Wasp
-- Skill: When there is a Royal Navy ship in the Main Fleet, every time Wasp launches an airstrike, there is a 30% (50%) chance of launching another round of airstrike with Spitfires. 
-- Loadout: 3/3/2
+>> Increases experience gained by CV by 15%
+
+>> Increases Reload for CVL by 15%, does not stack with other command skills that have similar effect. 
+
+> Loadout: 6/2/0
+
+> Desc: Saddled with the much reviled F/F/B loadout and a useless (in combat) primary skill, it's hard to justify her use in most fleets - until you realise just how useful Reload is for CVL, and how cheap and effective a full CVL backline can be.
+
+> Manual only, but the results are guaranteed; and if you need the exp boost, keep one 0LB around specifically for that purpose.
+
+![CV](https://azurlane.koumakan.jp/w/images/1/1b/WaspChibi.png "USS Wasp") - [USS Wasp](https://azurlane.koumakan.jp/Wasp)
 - Desc: "SMOL WASP YO"
-The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go. Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners. While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
 
-= IJN Houshou
-- Skill: Increases experience gained by CV/L by 15%; +15% Aviation to all CV/L for 8s after Houshou launches an airstrike.
-- Loadout: 3/0/3
-- Desc: The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.
+> Skill: When there is a Royal Navy ship in the Main Fleet, every time Wasp launches an airstrike, there is a 30% (50%) chance of launching another round of airstrike with Spitfires. 
+
+> Loadout: 3/3/2
+
+> The cheapest CV in the game, by virtue of her Blue rarity... and that's pretty much it, as far as remarkable features go. Her staline is somewhat lacklustre, her skill doesn't add much to her DPS and pushes you into using HMS backliners. While definitely usable, her only real use case would be plugging Hard Mode enforced ship requirements.
+
+#### ![CVL](https://azurlane.koumakan.jp/w/images/f/ff/HoushouChibi.png "IJN Houshou") - [IJN Houshou](https://azurlane.koumakan.jp/Houshou)
+
+> Skill: 
+
+>> Increases experience gained by CV/L by 15%
+
+>> +15% Aviation to all CV/L for 8s after Houshou launches an airstrike.
+
+> Loadout: 3/0/3
+
+> Desc: The first carrier to ever sail the seas, and it shows. As THE early prototype for the ships that would later dominate the oceans, she's incredibly weak and brought further down by her mandatory CL gun - which can barely deal scratch damage, owing to her 0 Firepower statline.
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
-==========================================================
-AR (Repair Ship, Aqua Green cogwheel icon) - A Few Notes
-=========================================================
+---
+# AR (Repair Ship, Aqua Green cogwheel icon) - A Few Notes
  
 A misnomer to say the least. See here why ---> https://pastebin.com/RucY4TwC
 TLDR; not only they do contribute little to nothing to the fight, unlike Unicorn/Shouhou/Arizona, but the healing they provide is much lower than that of Unicorn/Shouhou/Arizona as soon as you start using multiple ships, even DDs, and their +1 ammo can be easily negated by a single ambush.
