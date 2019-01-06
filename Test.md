@@ -150,7 +150,7 @@ As it is for Phoenix, they are best used in mobbing fleets.
 > Desc: Tinykaze sacrifices almost every part of her statline for exceptionally powerful torpedoes and a torpedo-boosting debuff.
 Devastating if the stars align and the debuff procs on her first torp hit, but little more than a dead weight while she's stuck reloading. Handle with care.
 
-![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - [KMS Z25](https://azurlane.koumakan.jp/Z25)
+![DD](https://azurlane.koumakan.jp/w/images/5/55/Z25Chibi.png "Z25") - **[KMS Z25](https://azurlane.koumakan.jp/Z25)**
 > Skill: 
 
 >> 60% activation every 20s, increases own FP by 40% for 10s
