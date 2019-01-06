@@ -63,9 +63,8 @@ The DPS monster to AyaKai's DPH.
 ![DD](https://azurlane.koumakan.jp/w/images/4/47/Z23KaiChibi.png "Z23 Kai") - **[KMS Z23 Kai](https://azurlane.koumakan.jp/Z23#Retrofit)**
 * Skill:
   * 5% chance on firing main gun to boost Firepower by 60% for 8s
-  * Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.**
-
-* Special: Can equip CL guns.
+  * Every 20 seconds, has a 40% (70%) chance to active Destruction Mode, releasing a powerful barrage and spawning 2 rotating shields that can block 5 enemy shells each, and for 10 seconds own main gun critical rate becomes 100%.
+  * Can equip CL guns, but shouldn't.
 
 - Desc: "Gun Fuhrer".
 >Z23 takes the opposite approach to Ayanami, in that she goes all in on guns - her base FP is unmatched among DDs and her skills further ehnance her gun DPS to obscene degrees, while also having great uptime.  
