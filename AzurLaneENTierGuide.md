@@ -52,7 +52,7 @@ Good reading, and godspeed cap'n!
 ![DD](https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png "Laffey Kai") - [USS Laffey Kai](https://azurlane.koumakan.jp/Laffey#Retrofit)
 - Desc: "Vorpal Bunny".
 
-> **Skill: 
+> **Skill**: 
 
 >> 5% activation upon firing, increases own FP, Reload, and Evasion by 40% for 8s. 
 
