@@ -234,7 +234,7 @@ Good reading, and godspeed cap'n!
 * Unusually for these sorts of teams, its members' statlines differ slightly: Crescent is shooty (high FP), Comet is torpy (high Torp), Cygnet is slippery (high Eva). Equip and wield them accordingly.
  
 ### Honorable Mention:
-#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) [Downes](https://azurlane.koumakan.jp/Downes)
+#### ![DD](https://azurlane.koumakan.jp/w/images/7/7c/CassinChibi.png "USS Cassin") ![DD](https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png "USS Downes") [USS Cassin](https://azurlane.koumakan.jp/Cassin) [USS Downes](https://azurlane.koumakan.jp/Downes)
 - Desc: "Cheap and inexpensive bubblewrap".
 
 * Skill: When HP falls under 20%, heals 25% of max HP once per battle
