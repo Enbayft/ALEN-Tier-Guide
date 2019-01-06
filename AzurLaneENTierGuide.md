@@ -1086,7 +1086,7 @@ Loadout: 3/3/2
 Why is this even mentioned, then? Because her +XP skill stacks with Langley's, that's why, and having her around as a 0LB exp booster may be a good idea to hasten the leveling process.
 
 ---
-# AR (Repair Ship, Aqua Green cogwheel icon) - A Few Notes
+# AR ![AR](https://azurlane.koumakan.jp/w/images/b/b1/AR_img.png "AR Icon") - A Few Notes
  
 A misnomer to say the least. See here why ---> https://pastebin.com/RucY4TwC
 TLDR; not only they do contribute little to nothing to the fight, unlike Unicorn/Shouhou/Arizona, but the healing they provide is much lower than that of Unicorn/Shouhou/Arizona as soon as you start using multiple ships, even DDs, and their +1 ammo can be easily negated by a single ambush.
