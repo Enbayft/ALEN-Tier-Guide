@@ -100,6 +100,13 @@ Good reading, and godspeed cap'n!
 
 * Desc: Outclassed by 3/4 Starter Kai, but still very valid. Her superior statline, her Laffey-like generalist buff that pretty much boosts EVERYTHING worth boosting on a DD and an excellent barrage let her crank out a lot of DPS even when her torps are offline. The general strat is to gear her with a super-fast DD gun to proc her skill+barrage as often as possible.
 
+![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
+* Skill:
+  * 15% boost of torpedo stat to the frontline
+  * 30% chance to launch a second salvo on torpedo launch
+
+* Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
+
 ### Tier 1: 
 ---
 ![DD](https://azurlane.koumakan.jp/w/images/f/fd/CassinKaiChibi.png "Cassin Kai") ![DD](https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png "Downes Kai")- **[USS Cassin Kai](https://azurlane.koumakan.jp/Cassin#Retrofit)** **[USS Downes Kai](https://azurlane.koumakan.jp/Downes#Retrofit)**
@@ -112,13 +119,6 @@ Good reading, and godspeed cap'n!
 * Packing a lot of Firepower for destroyers and blessed with a decent Reload buff to go along the excellent self-heal, Cassin and Downes may not have the monstrous damage output of their IJN counterparts but they can and will outlast them many times over.
 
 * As it is for Phoenix, they are best used in mobbing fleets.
-
-![DD](https://azurlane.koumakan.jp/w/images/8/8e/KagerouChibi.png "IJN Kagerou") - **[IJN Kagerou](https://azurlane.koumakan.jp/Kagerou#Default)**
-* Skill:
-  * 15% boost of torpedo stat to the frontline
-  * 30% chance to launch a second salvo on torpedo launch
-
-* Desc: A relatively common ship that packs a LOT of punch. Combines high torpedo stat with double-torplaunch proc and a vanguard-wide torpedo boost.
  
 ### Tier 1.5:
 ---
@@ -199,6 +199,13 @@ Good reading, and godspeed cap'n!
 * Good gunnery with a skill that supports it, good Evasion with a proc-on-fire skill for maximum uptime, comparatively high HP, okay torps, okay AA; solid all around, but easily outshone in any of these areas by more dedicated units.
 
 * Make sure to bring a Fletcher along to capitalise on her strenghts.
+
+![DD](https://azurlane.koumakan.jp/w/images/a/a2/MakinamiChibi.png "IJN Makinami") - **[IJN Makinami](https://azurlane.koumakan.jp/Makinami)**
+* Skill: 
+  * 30% chance to launch a second salvo on Torpedo launch
+  * Every 20s, 60% chance to boost Firepower by 40%
+  
+* Desc: Aw, how adorable, she thinks she can actually deal damage what that IJN DD (tm) peashooter she's got. Her torp game is still legit, if nothing else, and she'll be a decent placeholder for the superior and cheaper Kuroshio/Oyashio, whenever they'll dome.
 
 ![DD](https://azurlane.koumakan.jp/w/images/8/88/ShigureChibi.png "IJN Shigure")- **[IJN Shigure](https://azurlane.koumakan.jp/Shigure)**
 * Skill: 5% chance on firing main gun to boost Evasion by 60% for 8s
@@ -353,6 +360,12 @@ Good reading, and godspeed cap'n!
 
 * Desc: Abukuma is the IJN's very own Leander, now with 30% more torpedoes: out go the FP buff and she smokescreen, in come the DD Torp buff and a decent chance to fire her rather excellent torpedo launchers twice. Not too flashy, but sturdy enough and dependable.
 
+![CL](https://azurlane.koumakan.jp/w/images/7/74/NakaChibi.png "IJN Naka") - [IJN Naka](https://azurlane.koumakan.jp/Naka)
+* Skill: +15% Torp and Reload to all DD/CL.
+
+* Desc: As frail as she's a good torp booster for your typical IJN vanguard, and a placeholder for the yet-to-come Sendai.
+
+* Not particularly remarkable, beyond her rather stellar barrage and shockingly low HP pool, but definitely effective.
 
 ### Tier 2:
 ---
@@ -804,15 +817,6 @@ _N/A_
 
 * As is customary for IJN sister ships, they only shine when used together - but even when taken on their own, it cannot be understated how valuable that early launch is.
 
-![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)**
-
-* Skill: 
-  * On launching an airstrike, heals the escort fleet for 8% HP
-  * On launching an airstrike, +15% Aviation (all CV/L) for 8s.
-
-* Loadout: 0/3/3
-
-* Desc: Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside. Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output.
  
 ### Tier 1:
 ---
@@ -847,16 +851,6 @@ _N/A_
 * Loadout: 3/0/3
 
 * Desc: Arguably the best support CVL in the game, between the heal, the reload buff and the fighter support she provides a lot of value simply by existing; and stopping her from existing is quite hard given her large HP pool, at least for the class.
-
-![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(Tier 0 if deployed with Zuikaku)**
-
-* Skill: 
-  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
-  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
-
-* Loadout: 2/2/
-
-* Desc: More support-based than her sister. Frailer than her sibling when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff). Her buffs are good enough to warrant usage even solo.
  
 ![CV](https://azurlane.koumakan.jp/w/images/a/a9/HiryuuChibi.png "IJN Hiryuu") - **[IJN Hiryuu](https://azurlane.koumakan.jp/Hiryuu)** **(Tier 0.5 if deployed with Souryuu)**
 
@@ -877,6 +871,26 @@ _N/A_
 * Loadout: 3/3/2
 
 * Desc: A dive bomber focused Kaga, giving up her fast launch for a frontline buff. Skills aside, what was said about Hiryuu applies to Souryuu as well.
+
+![CVL](https://azurlane.koumakan.jp/w/images/a/a1/ShouhouKaiChibi.png "IJN Shouhou Kai") - **[IJN Shouhou Kai](https://azurlane.koumakan.jp/Shouhou)** **(T0.5 w/ other CV/L)**
+
+* Skill: 
+  * On launching an airstrike, heals the escort fleet for 8% HP
+  * On launching an airstrike, +15% Aviation (all CV/L) for 8s.
+
+* Loadout: 0/3/3
+
+* Desc: Trades Unicorn's passive frontline Reload buff for a temporary Aviation buff and a significantly superior statline, HP pool aside. Can't match Unicorn in air superiority, lacking fighters, but decisively asserts her dominance in raw damage output.
+
+![CV](https://azurlane.koumakan.jp/w/images/d/db/ShoukakuChibi.png "IJN Shoukaku") - **[IJN Shoukaku](https://azurlane.koumakan.jp/Shoukaku)** **(Tier 0 if deployed with Zuikaku)**
+
+* Skill: 
+  * On launching an airstrike, gives a fleetwide increase of damage dealt by 10% and reduces damage taken fleetwide by 10% for 12s
+  * When paired, increases Air Power by 30% and INCREASES damage taken by 10%
+
+* Loadout: 2/2/
+
+* Desc: More support-based than her sister. Frailer than her sibling when her other half is around, but more than makes up for it thanks to the +30% Airpower she gets as well as the buffs she throws out (which incidentally also partially negate the debuff). Her buffs are good enough to warrant usage even solo.
 
 ### Tier 1.5:
 ---
